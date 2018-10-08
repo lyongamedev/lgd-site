@@ -1,0 +1,65 @@
+# Site
+title:              Lyon Game Dev
+bio:                'Les brasseurs du jeu-vidéo lyonnais'
+description:        "Les brasseurs du jeu-vidéo lyonnais"
+logo:               <img src="/images/LGD_Logo_White.png" alt="LyonGameDev Logo">
+locale:             fr_FR
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    author:
+
+# Jekyll
+permalink:          /blog/:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Comments
+disqus_shortname:   default
+
+# Social
+analytics-id:       "default"
+twitter:            default
+facebook:           groups/LyonGameDev
+instagram:          default
+github:             lyongamedev
+linkedin:           company/lyongamedev/
+
+# personal
+location:           Lyon, FR
+phone:              +33 (0)6 84 29 08 67
+email:              contact@lyongamedev.pro
+
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
