@@ -4,6 +4,7 @@ bio:                'Les brasseurs du jeu-vidéo lyonnais'
 description:        "Les brasseurs du jeu-vidéo lyonnais"
 logo:               <img src="/images/LGD_Logo_White.png" alt="LyonGameDev Logo">
 locale:             fr_FR
+email:              contact@lyongamedev.pro
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -44,11 +45,10 @@ linkedin:           company/lyongamedev/
 
 # personal
 location:           Lyon, FR
-phone:              +33 (0)6 84 29 08 67
 email:              contact@lyongamedev.pro
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
