@@ -4,6 +4,7 @@ title:  "Lyon Game Dev, réouverture du site web !"
 date:   2017-10-31
 excerpt: "Avec la création de l'association, il fallait un site tout frais tout neuf ! C'est chose faite, on espère..."
 image: "/images/articles/20181008_jekyll.jpg"
+comments: true
 ---
 
 ## Un site tout frais tout neuf !
