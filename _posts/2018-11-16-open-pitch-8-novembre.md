@@ -3,7 +3,7 @@ layout: post
 title:  "Retour sur l'Open Pitch du 8 novembre à l'AFK !"
 date:   2018-11-16
 excerpt: "Retrouvez les pitchs et les jeux présentés lors de notre Open Pitch #3 du 8 novembre 2018"
-image: "/images/articles/20131116_open_pitch.png"
+image: "/images/articles/20131116_open_pitch.jpg"
 comments: true 
 ---
 
