@@ -21,7 +21,7 @@ Pour préciser le format “Open Pitch”, en voici les règles :
 les intervenants ont alors 1 minute pour présenter leur projet !
 
 **Pourquoi on aime ?**  
-Parce que ce format offre des zones de prise de parole safe et bienveillantes, dans un esprit de partage bon enfant. C’est souvent, pour certain.e.s, une premier exercice qui les débloque et décomplexe pour les suivants dont l’enjeu est parfois plus important. Et encore une fois : parce qu’à la fin on boit des bières, tout simplement 🍻 ! 
+Parce que ce format offre des zones de prise de parole safe et bienveillantes, dans un esprit de partage bon enfant. C’est souvent, pour certain.e.s, un premier exercice qui les débloque et décomplexe pour les suivants dont l’enjeu est parfois plus important. Et encore une fois : parce qu’à la fin on boit des bières, tout simplement 🍻 ! 
 Pour les jeux disponibles en playtest, c’est aussi une occasion pour les équipes de recueillir l’avis de pair.e.s et de créer du réseau. 
 
 **Avec Qui ?**  
