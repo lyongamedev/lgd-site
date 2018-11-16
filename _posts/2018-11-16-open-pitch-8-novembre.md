@@ -27,7 +27,7 @@ Pour les jeux disponibles en playtest, c’est aussi une occasion pour les équi
 **Avec Qui ?**  
  ![Francis](/images/articles/20131116_open_pitch-francis.png)  
 **[Francis Courchinoux](https://www.linkedin.com/in/fcourchinoux/) pour [UAYEB](https://store.steampowered.com/app/589220/UAYEB_The_Dry_Land__Episode_1/)**  
-Francis d’ICA GAMES présente régulièrement les avancées de son jeu très ambitieux à la communauté. Ce soir-là, il a présenté un épisode entier ! On est vraiment très content.e.s que le premier épisode soit sorti et disponible sur Steam. **[Allez jeter un oeil au trailer](https://youtu.be/-A8pjicFS1Q)**, ça vaut vraiment le détour ! Félicitations pour la release et merci de l’avoir partagée avec la communauté. Vivement l’épisode 2 de ce monde ouvert ! (Pssssst : vous pouvez aller tester l’épisode à l’AKF Bar ;) )  
+Francis d’ICA GAMES présente régulièrement à la communauté les avancées de son jeu très ambitieux. Ce soir-là, il a présenté un épisode entier ! On est vraiment très content.e que le premier épisode soit sorti et disponible sur Steam. **[Allez jeter un oeil au trailer](https://youtu.be/-A8pjicFS1Q)**, ça vaut vraiment le détour ! Félicitations pour la release et merci de l’avoir partagée avec la communauté. Vivement l’épisode 2 de ce monde ouvert ! (Pssssst : vous pouvez aller tester l’épisode à l’AKF Bar ;) )  
 
 ----------------
   
@@ -43,14 +43,14 @@ Jeu d’infiltration dans lequel on incarne une araignée qui peut marcher sur l
 
 
 
-Des étudiants d’[Ynov Campus](https://www.ynov.com/campus/lyon/) ont également pitché leur projet d’étude ! Motivés et avec des projets originaux, on vous les présente :  
+Des étudiants d’[Ynov Campus](https://www.ynov.com/campus/lyon/) ont également pitché leur projet d’étude ! Motivés et avec des idées originales, on vous les présente :  
 * **[Brice Schumacher](https://www.linkedin.com/in/brice-schumacher/)** avec Sugar’s Sins, un boss fight TPS RPG,  
 * **[Jawad Elad](https://www.linkedin.com/in/jawad-elad-849480165/)**, visiblement fan d’Angry Birds puisqu’il a décidé de créer un jeu qui emprunte -un peu- ses mécaniques,  
 * **[Alexandre Champolion](https://www.linkedin.com/in/alexandre-champolion-375a81a4/)** avec Evil Voice, un beat them all à la troisième personne qui a pour objectif de briser le 4ème mur.  
 
-Enfin, l’Open Mic a été pris par **[Eric Scheiber](https://www.linkedin.com/in/eric-scheiber-98a37968/)** qui a présenté en 1 minute son projet de RPG inspiré du Marvel Cinematic Universe (il cherche à renforcer son équipe, alors go lui parler !), **Amandine** a ensuite pris la parole pour nous parler de son média **[Du Geek Ô Gône](https://www.facebook.com/dugeekogone/?hc_location=ufi)**, puis un projet de jeu de société cyber punk bien original a été présenté à la communauté et enfin des étudiants de l’école Gaming Campus ont parlé de leur projet qu’ils doivent passer à la moulinette !
+Enfin, l’Open Mic a été pris par **[Eric Scheiber](https://www.linkedin.com/in/eric-scheiber-98a37968/)** qui a présenté en 1 minute son projet de RPG inspiré du Marvel Cinematic Universe (il cherche à renforcer son équipe, **alors go lui parler** !), **Amandine** a ensuite pris la parole pour nous parler de son média **[Du Geek Ô Gône](https://www.facebook.com/dugeekogone/?hc_location=ufi)**, puis un projet de jeu de société cyber punk bien sympa a été présenté à la communauté et enfin des étudiants de l’école **Gaming Campus** ont parlé de leur projet qu’ils doivent passer à la moulinette !
 
-Vous l’aurez compris : les projets présentés sont aussi variés que l’écosystème en lui-même. Ce format permet de s’informer rapidement et de manière ludique autour d’un verre sur les avancées de chacun, toujours entre pros et aspirants impliqués. Et même si parfois le sujet dérive un peu, on retrouve toujours autour des tables des discussions passionnées sur le GD, la DA, le DEV, la COM, le BIZ,... **Bref, il est riche cet écosystème** !     
+Vous l’aurez compris : les pitchs sont aussi variés que l’écosystème en lui-même. Ce format permet de s’informer rapidement et de manière ludique autour d’un verre sur les avancées de chacun, toujours entre pros et aspirants impliqués. Et même si parfois le sujet dérive un peu, on retrouve toujours autour des tables des discussions passionnées sur le GD, la DA, le DEV, la COM, le BIZ,... **Bref, il est riche cet écosystème** !     
 
 ![Bryan](/images/articles/20131116_open_pitch-bryan.png)   
 
