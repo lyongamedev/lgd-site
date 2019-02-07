@@ -13,7 +13,7 @@ comments: true
 
 *« Lyon Game Dev »* est parue au Journal Officiel comme association loi 1901, ce 26 janvier 2019.
 
-**EEEEEEEET**, il est grand temps de te proposer d’adhérer en tant que membre pour soutenir notre dynamique de rassemblement des acteurs et individus du jeu vidéo à Lyon et sa région.
+**EEEEEEEET**, il est grand temps de te proposer d’adhérer en tant que membre pour soutenir notre dynamique de rassemblement des acteurs et individus du jeu vidéo à Lyon.
 
 Nous prévoyions des actions plus conséquentes pour cette année 2019 :
 * De continuer à organiser les apéros LGD, mais plus PUYSSAN !
