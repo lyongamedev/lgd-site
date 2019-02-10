@@ -6,7 +6,7 @@ logo:               <img src="/images/LGD_Logo_White.png" alt="LyonGameDev Logo"
 locale:             fr_FR
 email:              contact@lyongamedev.pro
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://lyongamedev.pro" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -37,7 +37,9 @@ disqus_shortname:   lyongamedev
 
 # Social
 analytics-id:       UA-102595610-1 
-facebook:           groups/LyonGameDev
+facebook:           LyonGameDevPage
+facebookgroup:      groups/LyonGameDev
+twitter:            lyon_dev
 github:             lyongamedev
 linkedin:           company/lyongamedev/
 
