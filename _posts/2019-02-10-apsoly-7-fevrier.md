@@ -4,6 +4,7 @@ title:  "Diversité dans nos studios: retour sur les workshops avec l’associat
 date:   2019-02-10
 excerpt: "On revient sur le meetup-workshop du jeudi 7 février aux Arpenteurs, co-organisé avec l’association de psychologues sociaux.ales: Apsoly !"
 image: "/images/articles/20190210-apsoly/01.jpg"
+author: tiffanyvaquie
 comments: true 
 ---
 

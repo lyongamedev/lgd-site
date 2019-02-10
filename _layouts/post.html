@@ -55,7 +55,11 @@
       			</header>
       			<div class="image main"><img src="{{page.image}}" alt=""></div>
       			<p>{{content}}</p>
+		{% assign author = site.data.authors[page.author] %}
+        {% include  author.html %}
       		</section>
+			
+
 
           <div class="comments-wrapper">
           <div id="disqus_thread"></div>

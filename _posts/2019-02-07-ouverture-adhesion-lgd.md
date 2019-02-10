@@ -6,6 +6,7 @@ excerpt: "Ce n’est pas annoncé de tout partout, mais CA Y EST !
 
 « Lyon Game Dev » est parue au Journal Officiel..."
 image: "/images/articles/20190207_adhesion-lgd-2019.jpg"
+author: antoinegouy
 comments: true 
 ---
 
