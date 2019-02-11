@@ -21,11 +21,11 @@ Dans un contexte complexe où **les relations Femmes/Hommes dans le milieu profe
 
 Comme nous ne sommes pas des professionnels en matière de psychologie sociale, nous avons présenté le projet à l’**Association des PSychologues SOciaux.ales LYonnaise**: [Apsoly](https://apsoly.com/) qui a tout de suite accepté de nous aider ! De réunions en réunions, ils et elles en sont venus à ce déroulé :
 * introduction : présentation de la soirée par **Lyon Game Dev** et **Apsoly** ;
-* brise-glace : afin de mélanger les groupes et de faire émerger de nous échanges ;
+* brise-glace : afin de mélanger les groupes et produire de nouveaux échanges ;
 * ateliers : quizz, collaboration et partages d’expériences ;
 * conclusion : restitution.
 
-Apsoly a réalisé un [livret destiné aux participants très complet et approfondi !](/docs/20190210-apsoly/Livret_participant-es.pdf)  
+Apsoly a réalisé un [livret destiné aux participants très complet et approfondi !](/docs/20190210-apsoly/APSOLY_LGD_livret_participant-es.pdf) 
 (D’ailleurs cet article emprunte beaucoup d’éléments de ce dossier, donc go le lire !) 
 
 ## Atelier quizz
@@ -58,13 +58,15 @@ Cet atelier de réflexion collective avait pour but de favoriser les discussions
 ![Photo : Partage d'expérience](/images/articles/20190210-apsoly/04.jpg)  
 
 Sans doute l’atelier le plus lié à l’émotion et à l’empathie ! 
-Repris depuis [le dossier d’Apsoly](/docs/20190210-apsoly/Livret_participant-es.pdf) :  
+Repris depuis [le dossier d’Apsoly](/docs/20190210-apsoly/APSOLY_LGD_livret_participant-es.pdf) :  
 >*“À partir du discours des premiers témoins, chaque participant est sollicité afin de partager son vécu et ses expériences autour de situation d’injustice.Cet atelier vise le partage d’affects et d’émotions afin de ramener les réflexions du workshop à un niveau plus individuel. L’identification et l’empathie sont en effet des leviers importants pour l’implication dans une cause et/ou pour les autres.*
 
 ## Et la suite ?
 
 Pour conclure ces ateliers, une phase de restitution a permis à chacun et chacune d’exprimer son ressenti de manière libre ou via des gommettes à disposer sur des feuillets. 
 Rendez-vous sur [le site de l’association Apsoly afin de découvrir leurs travaux et projets.](https://apsoly.com/)
+
+>"C'est avec plaisir qu'APSOLY, Association de PSychologues SOciaux.ales LYonnaise, a participé, de la conception à l'animation, au projet de workshop oraganisé par Lyon Game Dev le 7 février 2019. La thématique de la mixité et les relations femmes-hommes dans l'industrie des JV semble avoir stimulé les participant-es venu-es en nombre et se prêtant volontiers aux animations. Ce fut une expérience de collaboration très positive et enrichissante."
 
 ![Photo : Et la suite](/images/articles/20190210-apsoly/05.jpg)  
 
