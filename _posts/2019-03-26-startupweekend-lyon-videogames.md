@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Participez au 1er Startup Weekend Video Games de France les 5 - 6 - Avril 2019 à TUBA Lyon"
-date:   2019-03-26
+date: 2019-03-26
 excerpt: "🔥 👉 Participez au 1er Startup Weekend Video Games de France les 5 - 6 - Avril 2019 à TUBA Lyon ❗️📢🔥"
 image: "/images/articles/20190326-startupweekend/01.jpg"
 author: antoinegouy

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comment se fabriquent les jeux vidéo ? avec GameSpectrum."
-date:   2019-05-06
+date: 2019-05-06
 excerpt: "On revient sur le meetup-workshop du jeudi 20 Mars à l’aquarium ciné-café, co-organisé avec l’association Game Impact et le vidéaste GameSpectrum !"
 image: "/images/articles/20190506-gamespectrum/01.jpg"
 author: nicolasvienat

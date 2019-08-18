@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Lyon Game Dev, l'association des brasseurs du jeu-vidéo lyonnais.
-description: Pionnière du brassage vidéoludique à partir de gros pixels non-aliasés, l’association Lyon Game Dev mélange l’écosystème professionnel du jeu-vidéo lyonnais depuis 2013.
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02

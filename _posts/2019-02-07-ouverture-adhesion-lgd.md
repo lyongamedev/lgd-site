@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deviens membre ACTIF de Lyon Game Dev !"
-date:   2019-02-07
+date: 2019-02-07
 excerpt: "Ce n’est pas annoncé de tout partout, mais CA Y EST !
 
 « Lyon Game Dev » est parue au Journal Officiel..."
