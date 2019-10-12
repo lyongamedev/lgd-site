@@ -17,7 +17,7 @@ Prenant le train en route, j'ai saisi l'occasion au vol pour emmener et faire jo
 
  ![Screenshot : Astre](/images/articles/20191011-astre-casanyxa-lgs2019/03-photo-lgs2019.jpg) ![Screenshot : Astre](/images/articles/20191011-astre-casanyxa-lgs2019/04-photo-lgs2019.jpg)  
 
-À la manière du [IndieGameLyon](https://www.facebook.com/events/mjc-monplaisir-le-karbone/indie-game-lyon-1/2093467614025809/), je participe à des conventions pour faire playtester mes projets plus que pour directement les vendre. Bien que les deux jeux soient très différents, ils partagent le même *lore*. J’aime donc les présenter ensemble. Cela avait très bien fonctionné à l’IndieGameLyon, moins au TGS Lyon Anime Game Show 2019...
+À la manière du [Indie Game Lyon](https://www.facebook.com/events/mjc-monplaisir-le-karbone/indie-game-lyon-1/2093467614025809/), je participe à des conventions pour faire playtester mes projets plus que pour directement les vendre. Bien que les deux jeux soient très différents, ils partagent le même *lore*. J’aime donc les présenter ensemble. Cela avait très bien fonctionné à l’IndieGameLyon, moins au TGS Lyon Anime Game Show 2019...
 
 ## 2 jours, 2 jeux
 L'accueil par LyonGameDev et l’installation des stands s’est très bien passée. Nous étions bien placés ce qui a permis à beaucoup de personnes d’au moins apercevoir la magnifique vue du début de la démo de Astre.
@@ -36,7 +36,9 @@ Tout ceci m’a appris pas mal de choses sur Astre et un petit peu sur Casa Nyxa
 
 Depuis, j’ai pu corriger le bug d’input ainsi que tenter une approche plus dirigiste de l’étape de tutorial problématique. Vous pouvez retrouver [la patch note sur la page du jeu.](https://conkerjak.itch.io/astre/devlog/102129/tgs-lyon-fixes)
 
-Le TGS Lyon Anime Game Show 2019 ne se sera donc pas passé sans accrocs mais aura été riche en enseignements. Néanmoins, je ne pense pas forcément remontrer ces projets sur un salon grand public comme celui-ci mais plutôt des salons focus sur la découverte de jeux indés comme l’[IndieCade](https://indiecade-europe.eu/) ou l’IndieGameLyon. Astre aura peut-être droit à quelques autres ajustement avant de repasser en stand-by. Casa Nyxa va être repris plus ou moins de zéro. Un autre projet plus instantané pourrait peut-être commencer aussi. 
+Le TGS Lyon Anime Game Show 2019 ne se sera donc pas passé sans accrocs mais aura été riche en enseignements. Néanmoins, je ne pense pas forcément remontrer ces projets sur un salon grand public comme celui-ci mais plutôt des salons focus sur la découverte de jeux indés comme l’[IndieCade](https://indiecade-europe.eu/) ou l’Indie Game Lyon. Astre aura peut-être droit à quelques autres ajustement avant de repasser en stand-by. Casa Nyxa va être repris plus ou moins de zéro. Un autre projet plus instantané pourrait peut-être commencer aussi. 
 
 Wait and see...
+
+{% include youtubePlayer.html id="rktxqAARgwM" %}
 
