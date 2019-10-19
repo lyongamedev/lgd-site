@@ -31,8 +31,8 @@ Le lien du HelloAsso pour t’enregistrer : [https://www.helloasso.com/associati
 ### Perk 1
 
 >Adhérez à Lyon Game Dev te donne d’ores et déjà, accès à une réduction sur la billetterie de [*"GameCamp"*](http://gamecamp.fr/) à Lille.  
-Soit le tarif **Cluster de -50%** (vous économisez **100€** pour une adhésion avant la fin des SuperEarlyBird !!!!)   
-![GameCamp Billeterie](/images/articles/20190207_gamecamp_eventbrite_2019.png)
+Soit le tarif **Cluster de -50%** (vous économisez **100€** pour une adhésion avant la fin des SuperEarlyBird !!!!)  
+<span class="image fit"><img src="{{ "/images/articles/20190207_gamecamp_eventbrite_2019.png" | absolute_url }}" alt="GameCamp Billeterie" /></span> 
 ---
 
 En tant qu’association représentative des professionnels du jeu vidéo (toi) nous comptons sur toi pour faire vivre *« Lyon Game Dev »* et les diverses dynamiques que nous allons lancer. Cette adhésion te donnera accès à :

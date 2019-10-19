@@ -35,6 +35,6 @@ Pour poursuivre la soirée Thomas le réalisateur, [Elise Chane]({{site.data.lin
 Après une trentaine de questions, remarques et partages avec l'assemblée, les spectateurs ont pu discuter autour d’une bière chaleureusement servi par l’aquarium Ciné Café.  
 Nous remercions tout le monde pour ce bel évènement qui, nous fait tous réfléchir sur l’avenir du domaine du jeux-vidéo et des emplois associés.  
 
-![Photo : Table ronde avec GameSpectrum](/images/articles/20190506-gamespectrum/02.jpg)  
+<span class="image fit"><img src="{{ "/images/articles/20190506-gamespectrum/02.jpg" | absolute_url }}" alt="Photo : Table ronde avec GameSpectrum"   
 
 On se revoit prochainement avec GameSpectrum ;) ? 

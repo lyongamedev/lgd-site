@@ -30,7 +30,7 @@ Apsoly a réalisé un [livret destiné aux participants très complet et approfo
 
 ## Atelier quizz
 
-![Photo : Atelier Quizz](/images/articles/20190210-apsoly/02.jpg)  
+<span class="image fit"><img src="{{ "/images/articles/20190210-apsoly/02.jpg" | absolute_url }}" alt="Photo : Atelier Quizz" /></span>
 
 Qu’étaient les calculatrices de la NASA à partir de 1939 ?
 * des machines à calculer des trajectoires
@@ -43,7 +43,7 @@ Autour d’une dizaine des questions, cet atelier a permis de contextualiser aup
 
 ## Atelier collaboration et compétences métiers 
 
-![Photo : Atelier collaboration et compétences métiers](/images/articles/20190210-apsoly/03.jpg) 
+<span class="image fit"><img src="{{ "/images/articles/20190210-apsoly/03.jpg" | absolute_url }}" alt="Photo : Atelier collaboration et compétences métiers" /></span>
 
 Instinctivement (sans réfléchir) :
 * qui mettez-vous derrière le métier de graphiste ?
@@ -55,7 +55,7 @@ Cet atelier de réflexion collective avait pour but de favoriser les discussions
 
 ## Atelier partage d’expériences
 
-![Photo : Partage d'expérience](/images/articles/20190210-apsoly/04.jpg)  
+<span class="image fit"><img src="{{ "/images/articles/20190210-apsoly/04.jpg" | absolute_url }}" alt="Photo : Partage d'expérience" /></span>
 
 Sans doute l’atelier le plus lié à l’émotion et à l’empathie ! 
 Repris depuis [le dossier d’Apsoly]({{site.data.docs.docs1819.apsoly}})) :  
@@ -68,7 +68,7 @@ Rendez-vous sur [le site de l’association Apsoly afin de découvrir leurs trav
 
 >"C'est avec plaisir qu'APSOLY, Association de PSychologues SOciaux.ales LYonnaise, a participé, de la conception à l'animation, au projet de workshop oraganisé par Lyon Game Dev le 7 février 2019. La thématique de la mixité et les relations femmes-hommes dans l'industrie des JV semble avoir stimulé les participant-es venu-es en nombre et se prêtant volontiers aux animations. Ce fut une expérience de collaboration très positive et enrichissante."
 
-![Photo : Et la suite](/images/articles/20190210-apsoly/05.jpg)  
+<span class="image fit"><img src="{{ "/images/articles/20190210-apsoly/05.jpg" | absolute_url }}" alt="Photo : Et la suite" /></span>
 
 Nous remercions tout le monde pour ce bel évènement qui, nous l’espérons, aura réussi à casser quelques barrières. Ce workshop est une première pierre dans l’édifice que nous souhaitons monter avec un projet plus construit, sur tout un week-end et avec de nombreux partenaires et expertes !
 

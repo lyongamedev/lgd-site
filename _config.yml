@@ -54,6 +54,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+#  - jekyll-responsive-image
 
 paginate: 6
 paginate_path: "/blog/page:num/"

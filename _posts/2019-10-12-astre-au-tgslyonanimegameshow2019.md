@@ -15,7 +15,12 @@ Prenant le train en route, j'ai saisi l'occasion au vol pour emmener et faire jo
   - [Astre](https://conkerjak.itch.io/astre) c'est un jeu d’action/aventure pacifiste en 3D jouable uniquement sur PC. C'est un projet vieux de quatre ans sur lequel j’ai aussi pu bosser en partie à temps plein. 
   - [Casa Nyxa](https://conkerjak.itch.io/casa-nyxa?secret=8nwwyCJXXloZB4BbRjnD2tnRPbc) est un jeu narratif 2D en huit clos dans un bar jouable sur PC et Android, ici présenté sur un Samsung Galaxy. C'est un projet plus récent sur lequel je ne bosse que certains week-end.
 
- ![Screenshot : Astre](/images/articles/20191011-astre-casanyxa-lgs2019/03-photo-lgs2019.jpg) ![Screenshot : Astre](/images/articles/20191011-astre-casanyxa-lgs2019/04-photo-lgs2019.jpg)  
+	<div class="box alt">
+		<div class="row 50% uniform">
+			<div class="6u"><span class="image fit"><img src="{{ "/images/articles/20191011-astre-casanyxa-lgs2019/03-photo-lgs2019.jpg" | absolute_url }}" alt="Screenshot : Astre" /></span></div>
+			<div class="6u"><span class="image fit"><img src="{{ "/images/articles/20191011-astre-casanyxa-lgs2019/04-photo-lgs2019.jpg" | absolute_url }}" alt="Screenshot : Astre" /></span></div>
+		</div>
+	</div>
 
 À la manière du [Indie Game Lyon](https://www.facebook.com/events/mjc-monplaisir-le-karbone/indie-game-lyon-1/2093467614025809/), je participe à des conventions pour faire playtester mes projets plus que pour directement les vendre. Bien que les deux jeux soient très différents, ils partagent le même *lore*. J’aime donc les présenter ensemble. Cela avait très bien fonctionné à l’IndieGameLyon, moins au TGS Lyon Anime Game Show 2019...
 
@@ -24,7 +29,7 @@ L'accueil par LyonGameDev et l’installation des stands s’est très bien pass
 
 Comme souvent, beaucoup de gens sont passés sans forcément s’arrêter mais la première image du jeu attire l’oeil. Ce qui n’est pas le cas de Casa Nyxa caché sur un petit téléphone avec un écran d'accueil textuel prévenant qu’il n’est pas fait pour un jeune public. Précaution inutile puisque le jeu est peu visible et le jeune public est manifestement très peu intéressé par le jeu. Astre a eu droit à des changements de "level design" notamment durant les étapes de tutoriels. Pas mal de petits problèmes se posent sur la compréhension de ce dernier. Ajouté à cela un bug d’inputs assez vieux mais difficile à reproduire de mon côté et vous obtenez beaucoup de joueurs qui lâchent la manette avant la fin du tutorial.
 
-![Screenshot : Astre](/images/articles/20191011-astre-casanyxa-lgs2019/02-photo-lgs2019.jpg)  
+<span class="image fit"><img src="{{ "/images/articles/20191011-astre-casanyxa-lgs2019/02-photo-lgs2019.jpg" | absolute_url }}" alt="Screenshot : Astre" /></span>
 
 Cependant, les joueurs qui comprennent ce tutoriel et ne tombent pas sur ce bug gênant apprécient l’aventure. La possibilité d’approcher les créatures de manière pacifique et les possibles réactions en chaîne de leur intelligence artificielle plaît énormément. Étant venu avec un ami, j’ai pu faire de longues pauses et profiter du salon plutôt que de trop m’énerver en voyant les mêmes problèmes se répéter régulièrement. J’ai aussi pu corriger un bug de tutoriel en fin de première journée.
 
