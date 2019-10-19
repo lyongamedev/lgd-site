@@ -2419,6 +2419,13 @@
 			display: block;
 		}
 
+		.image.author{
+			max-width: 40%;
+			float: left;
+			margin: 0 2rem 2rem 0;
+			top: 0.75rem;
+		}
+
 		.image.left, .image.right {
 			max-width: 40%;
 		}
