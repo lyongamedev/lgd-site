@@ -25,7 +25,7 @@ Comme nous ne sommes pas des professionnels en matière de psychologie sociale, 
 * ateliers : quizz, collaboration et partages d’expériences ;
 * conclusion : restitution.
 
-Apsoly a réalisé un [livret destiné aux participants très complet et approfondi !](/docs/20190210-apsoly/APSOLY_LGD_livret_participant-es.pdf) 
+Apsoly a réalisé un [livret destiné aux participants très complet et approfondi !]({{site.data.docs.docs1819.apsoly}})) 
 (D’ailleurs cet article emprunte beaucoup d’éléments de ce dossier, donc go le lire !) 
 
 ## Atelier quizz
@@ -58,7 +58,7 @@ Cet atelier de réflexion collective avait pour but de favoriser les discussions
 ![Photo : Partage d'expérience](/images/articles/20190210-apsoly/04.jpg)  
 
 Sans doute l’atelier le plus lié à l’émotion et à l’empathie ! 
-Repris depuis [le dossier d’Apsoly](/docs/20190210-apsoly/APSOLY_LGD_livret_participant-es.pdf) :  
+Repris depuis [le dossier d’Apsoly]({{site.data.docs.docs1819.apsoly}})) :  
 >*“À partir du discours des premiers témoins, chaque participant est sollicité afin de partager son vécu et ses expériences autour de situation d’injustice.Cet atelier vise le partage d’affects et d’émotions afin de ramener les réflexions du workshop à un niveau plus individuel. L’identification et l’empathie sont en effet des leviers importants pour l’implication dans une cause et/ou pour les autres.*
 
 ## Et la suite ?
@@ -75,10 +75,10 @@ Nous remercions tout le monde pour ce bel évènement qui, nous l’espérons, a
 
 ### Team Lyon Game Dev
 
-Tous les crédits photo : [Steven Cruz](https://www.linkedin.com/in/steven-cruz-a53a7443/)  
+Tous les crédits photo : [Steven Cruz]({{site.data.linkedin.stevencruz}}) 
 
 Retrouvez-nous sur :  
 [Facebook](https://www.facebook.com/LyonGameDevPage/)  
 [Twitter](https://twitter.com/lyon_dev)  
-[HelloAsso](https://www.helloasso.com/associations/lyon-game-dev/adhesions/adhesion-lyon-game-dev-2018-2019)
+[HelloAsso](https://www.helloasso.com/associations/lyon-game-dev)
 

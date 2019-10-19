@@ -27,7 +27,7 @@ Le crunch (une période intense de travail, généralement avant la sortie d’u
 
 {% include youtubePlayer.html id="4hLNKMGxKE8" %}
 
-Pour poursuivre la soirée Thomas le réalisateur, [Elise Chane](https://www.linkedin.com/in/elise-chane-sha-lin-138466106/) (Psychologue sociale chez Aspoly) [Nicolas Vienat](https://www.linkedin.com/in/vienat-nicolas-5b0ab897/) (Project Coordinator chez Ivory-Tower & Membre de Lyon Game Dev) et [Charlie Carpène](https://www.linkedin.com/in/charlie-carpene-3bb96153/) (Co-fondateur de GameImpact) ont animé le débat sur des trois axes :  
+Pour poursuivre la soirée Thomas le réalisateur, [Elise Chane]({{site.data.linkedin.elisechane}}) (Psychologue sociale chez Aspoly) [Nicolas Vienat]({{site.data.linkedin.nicolasvienat}}) (Project Coordinator chez Ivory-Tower & Membre de Lyon Game Dev) et [Charlie Carpène]({{site.data.linkedin.charliecarpene}}) (Co-fondateur de GameImpact) ont animé le débat sur des trois axes :  
   - Pourquoi on accepte / on finit par accepter des conditions de travail que l'on sait illégales et néfastes pour nous.  
   - L'influence de la norme sur l'existence du crunch.  
   - Améliorer les conditions de travail, quels leviers d'actions & quels rôles peuvent jouer les salariés du secteur ?  
