@@ -28,4 +28,4 @@ Servir des espaces de parole est notre activité.
 
 #### Les anciens conseil d'administration
 
-[En 2018-2019 : voir la galerie.](https://airtable.com/shr2pgdrcHWH0TDNZ)
+[En 2018-2019 👉 voir la galerie.](https://airtable.com/shr2pgdrcHWH0TDNZ)

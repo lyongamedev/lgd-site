@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Découvrez le rapport d'activités 2018-2019 pour LyonGameDev"
+title:  "Découvrez le rapport d'activités 2018-2019 pour Lyon Game Dev"
 date: 2019-10-19
 excerpt: "En attendant la nomination d'un nouveau bureau, le bureau 2018-2019 à le plaisir de vous présenter son rapport d'activités..."
 image: "/images/articles/20191019-rapportactivites-lgd-20182019/01-photorapportactivites1819.jpg"
@@ -10,7 +10,7 @@ comments: true
 
 ## "Une année chargée et encore beaucoup de boulot !"
 
-Le bureau de LyonGameDev, constitué de :
+Le bureau de Lyon Game Dev, constitué de :
 - [Tiffany Vaquié]({{site.data.linkedin.tiffanyvaquie}}) en qualité de présidente,
 - [Alexandre Cheremetieff]({{site.data.linkedin.alexandrecheremetieff}}) en qualité de trésorier,
 - [Antoine Gouy]({{site.data.linkedin.antoinegouy}}) en qualité de secrétaire,
@@ -19,7 +19,7 @@ Le bureau de LyonGameDev, constitué de :
 
 a la plaisir de vous présenter son rapport d'activité pour l'année 2018-2019 :
 
-[Bonne lecture ! 🤓]({{site.data.docs.docs1819.rapportactivites1819}})
+[Bonne lecture 👉 Accédez au rapport d'activités 🤓]({{site.data.docs.docs1819.rapportactivites1819}})
 
 Les membres du bureau se réunissent pour encourager le futur bureau 2019-2020, et remercient les partenaires, membres actifs, acteurs divers et variés pour les supports apportés durant leur année d'activité.
 

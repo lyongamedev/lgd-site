@@ -9,7 +9,7 @@ comments: true
 ---
 
 ## "J'étais au TGS Lyon Anime Game Show 2019 pour un playtest géant !"
-Emmenés par Tiffany et Maayane de [LyonGameDev](https://lyongamedev.pro), c'est 7 jeux que les développeurs du bassin lyonnais ont pris le temps de présenter sur un corner *indés* durant le [TGS Lyon Anime Game Show 2019](https://tgs-lyongameshow.fr/). ([voir notre appel à projet](https://lyongamedev.pro/blog/lyongameshow2019/))
+Emmenés par Tiffany et Maayane de [Lyon Game Dev](https://lyongamedev.pro), c'est 7 jeux que les développeurs du bassin lyonnais ont pris le temps de présenter sur un corner *indés* durant le [TGS Lyon Anime Game Show 2019](https://tgs-lyongameshow.fr/). ([voir notre appel à projet](https://lyongamedev.pro/blog/lyongameshow2019/))
 Prenant le train en route, j'ai saisi l'occasion au vol pour emmener et faire jouer deux projets sur lequel je travaille :
 
   - [Astre](https://conkerjak.itch.io/astre) c'est un jeu d’action/aventure pacifiste en 3D jouable uniquement sur PC. C'est un projet vieux de quatre ans sur lequel j’ai aussi pu bosser en partie à temps plein. 
@@ -25,7 +25,7 @@ Prenant le train en route, j'ai saisi l'occasion au vol pour emmener et faire jo
 À la manière du [Indie Game Lyon](https://www.facebook.com/events/mjc-monplaisir-le-karbone/indie-game-lyon-1/2093467614025809/), je participe à des conventions pour faire playtester mes projets plus que pour directement les vendre. Bien que les deux jeux soient très différents, ils partagent le même *lore*. J’aime donc les présenter ensemble. Cela avait très bien fonctionné à l’IndieGameLyon, moins au TGS Lyon Anime Game Show 2019...
 
 ## 2 jours, 2 jeux
-L'accueil par LyonGameDev et l’installation des stands s’est très bien passée. Nous étions bien placés ce qui a permis à beaucoup de personnes d’au moins apercevoir la magnifique vue du début de la démo de Astre.
+L'accueil par Lyon Game Dev et l’installation des stands s’est très bien passée. Nous étions bien placés ce qui a permis à beaucoup de personnes d’au moins apercevoir la magnifique vue du début de la démo de Astre.
 
 Comme souvent, beaucoup de gens sont passés sans forcément s’arrêter mais la première image du jeu attire l’oeil. Ce qui n’est pas le cas de Casa Nyxa caché sur un petit téléphone avec un écran d'accueil textuel prévenant qu’il n’est pas fait pour un jeune public. Précaution inutile puisque le jeu est peu visible et le jeune public est manifestement très peu intéressé par le jeu. Astre a eu droit à des changements de "level design" notamment durant les étapes de tutoriels. Pas mal de petits problèmes se posent sur la compréhension de ce dernier. Ajouté à cela un bug d’inputs assez vieux mais difficile à reproduire de mon côté et vous obtenez beaucoup de joueurs qui lâchent la manette avant la fin du tutorial.
 
