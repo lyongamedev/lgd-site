@@ -98,7 +98,7 @@ Nous intervenions à l'organisation de plusieurs temps forts tout au long du sal
     </div>
 
 * [Alexandre Muttoni](site.data.linkedin.alexandremuttoni}}), co-fondateur du studio ["Le cartel"](https://lecartelstudio.fr/) et Game-Artist,
-* [Ilker "TKR" Dovanci]({{site.data.linkedin.tkr}}), ancien pro-camer chez  [Vitality](https://vitality.gg/fr/).
+* [Ilker "TKR" Dovanci]({{site.data.linkedin.tkr}}), ancien pro-gamer chez  [Vitality](https://vitality.gg/fr/).
 
 ### Merci au développeur de [Draw Your Game](http://www.draw-your-game.com/), utilisé dans le cadre de l’atelier "Dessine ton jeu et joue." :
 
