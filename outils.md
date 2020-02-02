@@ -15,7 +15,7 @@ Voilà les événements jeu-vidéo de la région AURA ! Calendrier partagé avec
 
 --------------------
 
-## L'annuaire des acteurs du jeu-vidéo</h2>
+## L'annuaire des acteurs du jeu-vidéo
 
 Retrouvez notre travail d'identification des acteurs du jeu vidéo à Lyon mené par [Jérémie Cieslak]({{site.data.linkedin.jeremiecieslak}})
 
