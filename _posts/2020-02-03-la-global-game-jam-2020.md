@@ -10,7 +10,7 @@ comments: true
 
 ## Ce weekend, c'était la [Global Game Jam](https://globalgamejam.org/) ! 
 
-Ce challenge international invite les #gamedev du monde entier à prototyper un jeu en 48h sur un thème donné. Les jammers se réunissent dans le monde entier et buche ensemble le temps d'un weekend. Un moment convivial thème sur un 2020 faussement simple : le mot #Repair 🛠
+Ce challenge international invite les #gamedev du monde entier à prototyper un jeu en 48h sur un thème donné. Les jammers se réunissent dans le monde entier et buchent ensemble le temps d'un weekend. Un moment convivial thème sur un 2020 faussement simple : le mot #Repair 🛠
 
 La team [Lyon Game Dev](https://lyongamedev.pro) était invitée sur le ["Jam Site" du campus Ionis de Lyon](https://globalgamejam.org/2020/jam-sites/campus-ionis-num%C3%A9rique-cr%C3%A9atif-lyon). L'espace organisé au poil par [Rémi BARRERO]({{site.data.linkedin.remibarrero}}) 👉 intervenant en GameDesign et membre chez Lyon Game Dev 👌 a permis à nos membres de :
   - venir conseiller les jammers via du mentorat (👋 avec [Alexandre](site.data.linkedin.alexandrecheremetieff}}), [Nicolas]({{site.data.linkedin.nicolasvienat}}) et [Antoine]({{site.data.linkedin.antoinegouy}}))
@@ -31,7 +31,7 @@ La team [Lyon Game Dev](https://lyongamedev.pro) était invitée sur le ["Jam Si
 -----------
 ## Retrouvez les jeux développés le temps du weekend !
 
-Après un tour d'essai des membres #LGD, et de lourds débats pour dépatarger tout le monde, nous avons créé une liste de nos coups de coeurs [parmi les jeux du Jam Site](https://globalgamejam.org/2020/jam-sites/campus-ionis-num%C3%A9rique-cr%C3%A9atif-lyon/games) 👇 :
+Après un tour d'essai des membres #LGD, et de lourds débats pour départager tout le monde, nous avons créé une liste de nos coups de coeurs [parmi les jeux du Jam Site](https://globalgamejam.org/2020/jam-sites/campus-ionis-num%C3%A9rique-cr%C3%A9atif-lyon/games) 👇 :
   - TTT (ils ont changé de noms les margoulins 😮)
   - [Tools and Ghost](https://globalgamejam.org/2020/games/tools-and-ghost-7]
   - [Debugger](https://globalgamejam.org/2020/games/debugger-3)
@@ -40,7 +40,7 @@ Après un tour d'essai des membres #LGD, et de lourds débats pour dépatarger t
   - Tudordu (ils ont changé de noms les margoulins bis repetita 😮)
   
 > Un gros coup de 💖 pour le prototype "Paint in the ass" de l'équipe de [Ralph Nicolas]({{site.data.linkedin.ralphnicolas}}) !  
-Un super prototype réalisé par une équipe qui DORS et prends son temps pour bien MANGER ! 🤩  
+Un super prototype réalisé par une équipe qui DORT et prends son temps pour bien MANGER ! 🤩  
 Le challenge ne doit pas laisser place à une banalisation de la culture du crunch ! On peut jammer sainement !
 
 -----------
