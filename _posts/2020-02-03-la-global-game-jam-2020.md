@@ -37,7 +37,7 @@ La team [Lyon Game Dev](https://lyongamedev.pro) était invitée sur le ["Jam Si
 Après un tour d'essai des membres #LGD, et de lourds débats pour départager tout le monde, nous avons créé une liste de nos coups de coeurs [parmi les jeux du Jam Site](https://globalgamejam.org/2020/jam-sites/campus-ionis-num%C3%A9rique-cr%C3%A9atif-lyon/games) 👇 :
 
 * TTT (ils ont changé de noms les margoulins 😮)
-* \[Tools and Ghost\](https://globalgamejam.org/2020/games/tools-and-ghost-7)
+* [Tools and Ghost](https://globalgamejam.org/2020/games/tools-and-ghost-7)
 * [Debugger](https://globalgamejam.org/2020/games/debugger-3)
 * [Paint in the ass](https://globalgamejam.org/2020/games/paint-ass-4) 😍
 * [Ben's rocket](https://globalgamejam.org/2020/games/bens-rocket-4)
