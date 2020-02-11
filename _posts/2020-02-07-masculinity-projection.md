@@ -20,11 +20,11 @@ comments: true
 
 ### Masculinité hégém... quoi ?
 
-Pas de panique, ces thèmes sont abordés dans le documentaire sans raccourci 😉 Diffusion, dans un premier temps, des chapitres 2, 3 et 4 du documentaire de Game Spectrum.
+Pas de panique, ces thèmes sont abordés dans le documentaire sans raccourci 😉 Diffusion, dans un premier temps, des chapitres 1, 2, et 3 du documentaire de Game Spectrum.
 
-  - Chapitre 2 - Être un homme
-  - Chapitre 3 - La masculinité geek
-  - Chapitre 4 - Le bruit des bottes
+  - Chapitre 1 : Les mecs dans le jeu vidéo
+  - Chapitre 2 : Être un homme
+  - Chapitre 3 : La masculinité geek
 
 Le tout sera suivi dans un second temps d'un moment de débats et d'échanges, ponctué par l'animation des modérateurs et modératrices. Les questions et points techniques pourront être abordés grâce aux psychologues sociaux présent.e.s.
 
