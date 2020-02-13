@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Enquête visant les professionnel.le.s juniors du jeu vidéo en région lyonnaise"'
+title: 'Enquête visant les professionnel.le.s juniors du jeu vidéo en région lyonnaise'
 date: 2020-02-13
 excerpt: L'association ne cesse de se structurer et de capter de nouvelles énergies. Nous sommes conscients que le parcours des professionnel.le.s juniors du jeu vidéo dans la région lyonnaise peut être compliqué...
 image: "/images/articles/20200213-enquete/enquete1.jpg"
