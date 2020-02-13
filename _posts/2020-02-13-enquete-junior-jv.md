@@ -21,4 +21,4 @@ comments: true
 
 Plus nous aurons de réponses, et plus nous pourront adapter l'aide et nos projets futures pour qu'ils répondent à VOS besoins. Donc pensez à partager à votre entourage❗️
 
-*L'utilisation des données servira à récapituler une étude anynome des besoins sur la localité.*
+*Les données récoltées serviront à récapituler une étude anynome des besoins des professionnel.le.s juniors du jeu-vidéo sur la localité lyonnaise.*
