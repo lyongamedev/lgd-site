@@ -4,7 +4,7 @@ title: Comment se fabriquent les jeux vidéo ? avec GameSpectrum.
 date: 2020-02-29 23:00:00 +0000
 excerpt: On revient sur le meetup-workshop du jeudi 20 Mars à l’aquarium ciné-café,
   co-organisé avec l’association Game Impact et le vidéaste GameSpectrum !
-image: "/images/articles/20200219_Banniere_EventBrite_puzzlein.png"
+image: "/images/articles/20200207-masculinityprojection/Masculinity_01.png"
 author: tiffanyvaquie
 comments: true
 
