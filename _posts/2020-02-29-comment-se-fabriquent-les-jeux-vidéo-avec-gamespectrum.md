@@ -11,7 +11,7 @@ comments: true
 ---
 ## Qui sont les joueurs de jeu vidéo ? - Documentaire
 
-Retour sur l'événement projection-débat du mercredi 19 février au Puzzle Inn, co-organisé avec l’association [APSOLY ](https://apsoly.com/)([Pour continuer les bonnes habitudes]( https://lyongamedev.pro/blog/gamespectrum-projection/) ;) 
+Retour sur l'événement projection-débat du mercredi 19 février au Puzzle Inn, co-organisé avec l’association [APSOLY ](https://apsoly.com/)([Pour continuer les bonnes habitudes](https://lyongamedev.pro/blog/gamespectrum-projection/) ;)
 
 **Format d’animation ?** : Projection - Débat
 
@@ -37,20 +37,20 @@ Bref, des super supports à débats !
 
 Le reportage a titillé, gratté, provoqué… Alors des membres de l’association ont décidé de prendre ce sujet à bras-le-corps en organisant une projection des chapitres 1, 2 et 3 (orientés sur le genre) suivie d’un débat en compagnie d’[Elise Chane](https://www.linkedin.com/in/elise-chane-sha-lin-138466106/) et [Jordi Nouvellet](https://www.linkedin.com/in/jordi-nouvellet-85837947/) (Psychologues sociaux et membres d’Aspoly)[ ](https://www.linkedin.com/in/vienat-nicolas-5b0ab897/)ainsi que [Tiffany Vaquié](https://www.linkedin.com/in/tiffany-v-2a1170131/ ) (vice-présidente de Lyon Game Dev) en modération.
 
-![](https://lh5.googleusercontent.com/UaazzswOm0yz2V_eEtkfeo-dYt8P5Q6E0AGdRMYx7xO4hVCqQHwLSSDlOnBBeIdsW-n8vMzxhsiBHY9k627hcglxfPdMGcA3KSzvZUH59Bbdb7UbYdZVjk3ad-_-KRm8TGCXPGVU =384x288)
+![](/images/202003:day-IMG_20200219_200759-1.jpg)
 
-Le but de cet évènement était de donner la parole aux Hommes, ainsi qu’aux Femmes et non-binaires, autour de leurs ressentis. 
+Le but de cet évènement était de donner la parole aux Hommes, ainsi qu’aux Femmes et non-binaires, autour de leurs ressentis.
 
-* Comment le public se sent-il vis-à-vis d’une masculinité militarisée à outrance dans les jeux vidéo ? 
+* Comment le public se sent-il vis-à-vis d’une masculinité militarisée à outrance dans les jeux vidéo ?
 * Se reconnaît-il dans les codes de la masculinité hégémonique ?
-* Comment prendre conscience d’une exclusion des minorités ? 
+* Comment prendre conscience d’une exclusion des minorités ?
 * Le tout accompagné et encadré par deux psychologues sociaux sensibilisés à la notion de genre.
 
 Eh bien… C’était mouvementé :) Une heure de débat a suivi la projection, et les thèmes qui ont émergé ont été variés (s’écartant parfois du sujet) : l’intérêt des Femmes vis-à-vis de la Tech, le rapport au scoring, l’envie de voir émerger d’autres modèles de masculinité, une diversité dans les studios qui ne doit pas prendre à elle-seule la charge de l’évolution des modèles et surtout le souhait de s’ouvrir à d’autres perspectives. Le jeu vidéo est un média qui évolue, d’autres formes de jeu sont possibles et nous l’avons bien exposé ce soir-là.
 
 Je remercie sincèrement chaque personne présente pour avoir eu le courage de s’exprimer et partager son point de vue ainsi que toutes les personnes curieuses et à l’écoute. Les échanges ont tranquillement poursuivi jusqu'à la fermeture du bar, alors merci au Puzzle Inn pour l’accueil ! Et évidemment [Nicolas Vienat](https://www.linkedin.com/in/vienat-nicolas-5b0ab897/) ainsi que [Gaulthier Gomes-Leal](https://www.linkedin.com/in/gaulthier-gomes-leal-67029b176/) et les bénévoles de Lyon Game Dev pour leur contribution.
 
-![](https://lh6.googleusercontent.com/qlg9Q0NKBGHRnOsWA29nSiJaeHQFQccS16fROCJtOyJ-H_bBoAQLUjLK-1ql56QGywEHE1XdR2RpprTEo7P2MbZeBToxYrUWQn3TBaTCuD5zIgYRNB-N6_y8S_SnN2xWmL8wSFEu =402x302)
+![](/images/202003:day-IMG_20200219_212659-1.jpg)
 
 Rendez-vous dans quelques mois pour la projection de la partie deux ?
 
