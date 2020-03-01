@@ -25,13 +25,11 @@ Retour sur l'événement projection-débat du mercredi 19 février au Puzzle Inn
 
 La [chaîne YouTube Game Spectrum](https://www.youtube.com/channel/UCoE1zHB74QsR22l-J6uK53Q) propose des émissions de documentaires gratuits et indépendants sur le jeu vidéo et son rapport au monde. Collapsologie et jeu vidéo, conditions de travail, influence dans le milieu : la chaîne décortique et analyse ce média sous un angle actuel, proposant des pistes de réflexion.
 
-Le 7 janvier 2020, Thomas Versaveau diffusait sur la chaîne le résultat d’un travail de longs mois : un documentaire sur l’histoire de la masculinité geek à l'aune des études de genre. Sa diffusion a entraîné beaucoup d'échanges et de questionnements : le jeu vidéo est un milieu considéré comme “masculin”, mais que cela signifie-t-il ? Que veut dire “masculin” ? Pourquoi des catégories entières de population ne se sentent pas incluses dans la communauté ?
+Le 7 janvier 2020, Thomas Versaveau diffusait sur la chaîne le résultat d’un travail de longs mois : [un documentaire sur l’histoire de la masculinité geek à l'aune des études de genre](https://youtu.be/_sUvKvoK9I8). Sa diffusion a entraîné beaucoup d'échanges et de questionnements : le jeu vidéo est un milieu considéré comme “masculin”, mais que cela signifie-t-il ? Que veut dire “masculin” ? Pourquoi des catégories entières de population ne se sentent pas incluses dans la communauté ?
 
 L’ensemble est analysé sous plusieurs angles : le genre, le modèle hégémonique masculin, la masculinité “geek”, le communautarisme et la politique.
 
 Bref, des super supports à débats !
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/_sUvKvoK9I8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## L’objectif de l’évènement : faire émerger les ressentis et questions
 
