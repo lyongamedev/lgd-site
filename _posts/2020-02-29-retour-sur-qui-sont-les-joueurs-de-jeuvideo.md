@@ -1,25 +1,22 @@
 ---
 layout: post
-title: Comment se fabriquent les jeux vidéo ? avec GameSpectrum.
+title: Retour sur la projection débat "Qui sont les joueurs de jeu vidéo ?" avec GameSpectrum.
 date: 2020-02-29 23:00:00 +0000
-excerpt: On revient sur le meetup-workshop du jeudi 20 Mars à l’aquarium ciné-café,
-  co-organisé avec l’association Game Impact et le vidéaste GameSpectrum !
-image: "/images/articles/20200207-masculinityprojection/Masculinity_01.png"
+excerpt: On revient sur la projection du reprotage de GameSpectrum ce mercredi 19 février Mars au Puzzle Inn
+  co-organisé avec l’association Apsoly !
+image: "/images/articles/20200229_retourquisontjoueurjv/quisontjoueurjv_01.jpg"
 author: tiffanyvaquie
 comments: true
 
 ---
 ## Qui sont les joueurs de jeu vidéo ? - Documentaire
 
-Retour sur l'événement projection-débat du mercredi 19 février au Puzzle Inn, co-organisé avec l’association [APSOLY ](https://apsoly.com/)([Pour continuer les bonnes habitudes](https://lyongamedev.pro/blog/gamespectrum-projection/) ;)
+Retour sur l'événement projection-débat du mercredi 19 février au Puzzle Inn, co-organisé avec l’association [APSOLY ](https://apsoly.com/)([Pour continuer les bonnes habitudes](https://lyongamedev.pro/blog/gamespectrum-projection/)) ;)
 
-**Format d’animation ?** : Projection - Débat
-
-**Où ?** : [Puzzle Inn](https://www.puzzle-inn.fr/), Lyon
-
-**Quand ?** : mercredi 19 février 2020 de 20 h à 22 h
-
-**Avec qui ?** : [l’association Apsoly](http://apsoly.com)
+**Format d’animation ?** : Projection - Débat  
+**Où ?** : [Puzzle Inn](https://www.puzzle-inn.fr/), Lyon  
+**Quand ?** : mercredi 19 février 2020 de 20 h à 22 h  
+**Avec qui ?** : [l’association Apsoly](http://apsoly.com)  
 
 ## Explication du contexte : un documentaire sur la masculinité dans le milieu jeu vidéo
 
@@ -35,7 +32,12 @@ Bref, des super supports à débats !
 
 Le reportage a titillé, gratté, provoqué… Alors des membres de l’association ont décidé de prendre ce sujet à bras-le-corps en organisant une projection des chapitres 1, 2 et 3 (orientés sur le genre) suivie d’un débat en compagnie d’[Elise Chane](https://www.linkedin.com/in/elise-chane-sha-lin-138466106/) et [Jordi Nouvellet](https://www.linkedin.com/in/jordi-nouvellet-85837947/) (Psychologues sociaux et membres d’Aspoly)[ ](https://www.linkedin.com/in/vienat-nicolas-5b0ab897/)ainsi que [Tiffany Vaquié](https://www.linkedin.com/in/tiffany-v-2a1170131/ ) (vice-présidente de Lyon Game Dev) en modération.
 
-![](/images/202003:day-IMG_20200219_200759-1.jpg)
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="6u"><span class="image fit"><img src="{{ "/images/articles/20200229_retourquisontjoueurjv/quisontjoueurjv_02.jpg" | absolute_url }}" alt="Photo de la soirée" /></span></div>
+		<div class="6u"><span class="image fit"><img src="{{ "/images/articles/20200229_retourquisontjoueurjv/quisontjoueurjv_03.jpg" | absolute_url }}" alt="Photo de la soirée" /></span></div>
+	</div>
+</div>
 
 Le but de cet évènement était de donner la parole aux Hommes, ainsi qu’aux Femmes et non-binaires, autour de leurs ressentis.
 
@@ -48,9 +50,9 @@ Eh bien… C’était mouvementé :) Une heure de débat a suivi la projection, 
 
 Je remercie sincèrement chaque personne présente pour avoir eu le courage de s’exprimer et partager son point de vue ainsi que toutes les personnes curieuses et à l’écoute. Les échanges ont tranquillement poursuivi jusqu'à la fermeture du bar, alors merci au Puzzle Inn pour l’accueil ! Et évidemment [Nicolas Vienat](https://www.linkedin.com/in/vienat-nicolas-5b0ab897/) ainsi que [Gaulthier Gomes-Leal](https://www.linkedin.com/in/gaulthier-gomes-leal-67029b176/) et les bénévoles de Lyon Game Dev pour leur contribution.
 
-![](/images/202003:day-IMG_20200219_212659-1.jpg)
-
 Rendez-vous dans quelques mois pour la projection de la partie deux ?
+
+{% include youtubePlayer.html id="_sUvKvoK9I8" %}
 
 ### 54,60€ de dons et 30 participants !
 
