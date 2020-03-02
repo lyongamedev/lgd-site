@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Retour sur la projection débat "Qui sont les joueurs de jeu vidéo ?" avec GameSpectrum.
-date: 2020-02-29 23:00:00 +0000
-excerpt: On revient sur la projection du reprotage de GameSpectrum ce mercredi 19 février Mars au Puzzle Inn
-  co-organisé avec l’association Apsoly !
+date: 2020-02-29T23:00:00.000+00:00
+excerpt: On revient sur la projection du reportage de GameSpectrum ce mercredi 19
+  février au Puzzle Inn co-organisée avec l’association Apsoly !
 image: "/images/articles/20200229_retourquisontjoueurjv/quisontjoueurjv_01.jpg"
 author: tiffanyvaquie
 comments: true
