@@ -16,7 +16,7 @@ Retour sur l'événement projection-débat du mercredi 19 février au Puzzle Inn
 **Format d’animation ?** : Projection - Débat  
 **Où ?** : [Puzzle Inn](https://www.puzzle-inn.fr/), Lyon  
 **Quand ?** : mercredi 19 février 2020 de 20 h à 22 h  
-**Avec qui ?** : [l’association Apsoly](http://apsoly.com)  
+**Avec qui ?** : [l’association Apsoly](http://apsoly.com)
 
 ## Explication du contexte : un documentaire sur la masculinité dans le milieu jeu vidéo
 
@@ -33,10 +33,10 @@ Bref, des super supports à débats !
 Le reportage a titillé, gratté, provoqué… Alors des membres de l’association ont décidé de prendre ce sujet à bras-le-corps en organisant une projection des chapitres 1, 2 et 3 (orientés sur le genre) suivie d’un débat en compagnie d’[Elise Chane](https://www.linkedin.com/in/elise-chane-sha-lin-138466106/) et [Jordi Nouvellet](https://www.linkedin.com/in/jordi-nouvellet-85837947/) (Psychologues sociaux et membres d’Aspoly)[ ](https://www.linkedin.com/in/vienat-nicolas-5b0ab897/)ainsi que [Tiffany Vaquié](https://www.linkedin.com/in/tiffany-v-2a1170131/ ) (vice-présidente de Lyon Game Dev) en modération.
 
 <div class="box alt">
-	<div class="row 50% uniform">
-		<div class="6u"><span class="image fit"><img src="{{ "/images/articles/20200229_retourquisontjoueurjv/quisontjoueurjv_02.jpg" | absolute_url }}" alt="Photo de la soirée" /></span></div>
-		<div class="6u"><span class="image fit"><img src="{{ "/images/articles/20200229_retourquisontjoueurjv/quisontjoueurjv_03.jpg" | absolute_url }}" alt="Photo de la soirée" /></span></div>
-	</div>
+<div class="row 50% uniform">
+<div class="6u"><span class="image fit"><img src="{{ "/images/articles/20200229_retourquisontjoueurjv/quisontjoueurjv_02.jpg" | absolute_url }}" alt="Photo de la soirée" /></span></div>
+<div class="6u"><span class="image fit"><img src="{{ "/images/articles/20200229_retourquisontjoueurjv/quisontjoueurjv_03.jpg" | absolute_url }}" alt="Photo de la soirée" /></span></div>
+</div>
 </div>
 
 Le but de cet évènement était de donner la parole aux Hommes, ainsi qu’aux Femmes et non-binaires, autour de leurs ressentis.
@@ -56,4 +56,4 @@ Rendez-vous dans quelques mois pour la projection de la partie deux ?
 
 ### 54,60€ de dons et 30 participants !
 
-Merci pour votre générosité, comme promis et annoncé, 30€ seront reversés à Game Spectrum pour soutenir leurs actions.?
+Merci pour votre générosité, comme promis et annoncé, 30€ seront reversés à Game Spectrum pour soutenir leurs actions.
