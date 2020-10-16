@@ -9,7 +9,7 @@ comments: true
 
 ---
 
-L'association Lyon Game Dev organise une ["Scientific Game Jam"](https://scientificgamejam.org) 100% en ligne ce week-end. Il rassemble des jeunes chercheurs et des développeurs de jeux pour créer des jeux vidéo à thématique scientifique.
+L'association Lyon Game Dev organise une ["Scientific Game Jam"](http://scientificgamejam.org) 100% en ligne ce week-end. Il rassemble des jeunes chercheurs et des développeurs de jeux pour créer des jeux vidéo à thématique scientifique.
 Les jeux seront ensuite présentés en direct le dimanche à 14h. Les meilleurs projets, sélectionnés par un jury, obtiendront des prix, et seront notamment présentés lors d'un meetup spécial prévu le jeudi 3 décembre.
 
 Aussi, même vous ne participez pas, suivez le programme spécial du dimanche après-midi sur [la chaine Youtube de Lyon Game Dev](http://youtube.lyongamedev.pro)! 
