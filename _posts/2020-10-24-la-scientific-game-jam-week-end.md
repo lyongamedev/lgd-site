@@ -27,7 +27,7 @@ Les mots d’ordre étaient **« dormir »** et **« bienveillance »** pour pro
 Ensuite chaque groupe a planché sur son concept.  
 <ins>Samedi,</ins> tout le monde est au taquet ! Les canaux d’entraide s’activent par moment. Des mentors, pour chaque catégorie, étaient présents sur les 2 jours pour donner un coup de main aux équipes en cas de besoin.  
 <ins>Dimanche,</ins> le suspens est à son comble, les bugs de dernières minutes se multiplient et chacun fait comme il peut. 
-<in>14h</ins>, les projets sont postés sur Itch.io.  
+<ins>14h</ins>, les projets sont postés sur Itch.io.  
 Les paupières lourdes, les développeurs et les chercheurs ont fièrement accompli leur objectif.  
 **Ça y est, c’est fini !**
  
