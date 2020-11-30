@@ -33,7 +33,7 @@ Les paupières lourdes, les développeurs et les chercheurs ont fièrement accom
  
 ## Les présentations des projets
 Tu peux retrouver les présentations finales des projets sur la page Youtube de Lyon Game Dev ou directement ci-desous :
-{% include youtubePlayer.html id="a4pkLfMY2" %}  
+{% include youtubePlayer.html id='a4pkLfMY2uM' %}  
 Il y avait aussi 6 conférences sur Science et Jeux vidéo, qui seront bientôt disponibles en replay !
 
 ## Les jeux vidéo réalisés
