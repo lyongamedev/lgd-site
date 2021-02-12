@@ -12,20 +12,21 @@ Pionnière du brassage vidéoludique à partir de gros pixels non-aliasés, l’
 
 100% bio et 100% local !
 
-Les apéros de Lyon Game Dev (LGD) imaginés par et pour des lyonnais, transforment les produits locaux en réduisant sensiblement les dépenses énergétiques liées à la communication et au networking. Le modèle mis en place crée du lien entre les brasseurs-développeurs et valorise chaque cuvée de jeux vidéo.
+Les rencontres de Lyon Game Dev (LGD) des 1ers jeudis du mois, imaginés par et pour des lyonnais, transforment les produits locaux en réduisant sensiblement les dépenses énergétiques liées à la communication et au networking. Le modèle mis en place crée du lien entre les brasseurs-développeurs et valorise chaque cuvée de jeux vidéo.
 Brasser le secteur est notre mission,
 Servir des espaces de parole est notre activité.
 
-### Le conseil d'administration pour l'année 2019-2020
+### Le conseil d'administration pour l'année 2020-2021
 <div class="box">
   <p>
   Retrouvez les trombines des brasseurs qui s'activent pour mélanger l'écosystème.
   </p>
 </div>
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr2pgdrcHWH0TDNZ?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-emb<iframe class="airtable-embed" src="https://airtable.com/embed/shr8wokiEf3BW0Wk1?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>ed" src="https://airtable.com/embed/shr2pgdrcHWH0TDNZ?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
 #### Les anciens conseil d'administration
 
-[En 2018-2019 👉 voir la galerie.](https://airtable.com/shr2pgdrcHWH0TDNZ)
+[En 2019-2020 👉 voir la galerie.](https://airtable.com/shr2pgdrcHWH0TDNZ)
+[En 2018-2019 👉 voir la galerie.](https://airtable.com/shrtZiZRMQDOVmB2I)
