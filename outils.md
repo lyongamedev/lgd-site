@@ -17,9 +17,9 @@ sitemap:
 
 Vous êtes adhérents ou aspirants adhérents ? Retrouvez les documents associatifs de LyonGameDev en lecture seule :
   - [Nos statuts.](https://drive.google.com/file/d/11FJPtwsYjCBd7rEnaHTmZ9BKadaH729I/view?usp=sharing)
-  - [Notre réglement intérieur.](https://drive.google.com/file/d/1n7b5Dx2yKWOuuGynbd8ad5ml8NUzwP8o/view?usp=sharing)
+  - [Notre règlement intérieur.](https://drive.google.com/file/d/1n7b5Dx2yKWOuuGynbd8ad5ml8NUzwP8o/view?usp=sharing)
   - [Nos fiches de rôles.](https://drive.google.com/file/d/1Mg7cO3uIZ1eiv198vFtZusn1xGa6bIIi/view?usp=sharing)
-  - [Nos listing de distribution des roles.](https://docs.google.com/spreadsheets/d/1xtHRVN3UcXq73rehMss6hE-VSY_yKCUJttywr1a7fwE/edit?usp=sharing)
+  - [Notre listing de distribution des rôles.](https://docs.google.com/spreadsheets/d/1xtHRVN3UcXq73rehMss6hE-VSY_yKCUJttywr1a7fwE/edit?usp=sharing)
   - [Nos comptes rendus d'assemblée générale.](https://drive.google.com/drive/folders/1a4sA5IokfsL4TvZtsv5w_u1xEN3VKadw?usp=sharing)
   - [Nos comptes rendus de réunion en CA.](https://drive.google.com/drive/folders/10-kB9ncnr35gsYJYCimN0gwez2q-spWS?usp=sharing)
 
@@ -43,8 +43,8 @@ Retrouvez les réseaux LyonGameDev :
 
 ## Notre plateforme de discussion WorkAdventure spécial #COVID
 
-Envie de dsicuter en ligne pendant le confinement ? Couvre feu ?
-Afin de lutter contre covid, LyonGameDev vous invite sur son instance tiré de WorkAdventure.
+Envie de discuter en ligne pendant le confinement ? Couvre-feu ?
+Afin de lutter contre covid, LyonGameDev vous invite sur son instance tirée de WorkAdventure.
 N'hésitez pas à l'utiliser pour vos usages personnels dans le cadre d'activité pouvant se rapprocher à LyonGameDev, nous vous demanderons de respecter une charte de bonne conduite.
 
 <div class="box alt">
@@ -57,7 +57,7 @@ N'hésitez pas à l'utiliser pour vos usages personnels dans le cadre d'activit�
 		</div>
 	</div>
 	
-L'espace semble fonctionné sur tout navigateur, est limité à 25-30 personnes et est amené à évoluer dans le temps.
+L'espace semble fonctionner sur tout navigateur, est limité à 25-30 personnes et est amené à évoluer dans le temps.
 
 --------------------
 
