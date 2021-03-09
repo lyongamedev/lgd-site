@@ -13,7 +13,7 @@ Cette game jam rassemble des jeunes chercheurs et des développeurs pour créer 
 ### Au programme :
 
   1. 15 mentors professionnels avec plusieurs années d'expérience pour aider les équipes au cours du week-end.
-  1. 6 membres du jury pour évaluer les jeux à la fin de la jam, comprenant un journaliste [(Canard PC)](https://www.canardpc.com/), un fondateur de studio [(Dowino)](https://www.dowino.com/), un youtubeur [Histoire En Jeux](https://www.youtube.com/channel/UCRThjUeXnxL_BKUhqJv5XBg), une chercheuse en game studies [Université de Liège](https://www.uliege.be/cms/c_8699436/fr/uliege), une cheffe de projet [(Ubisoft](https://www.ubisoft.com/fr-fr/) / [Ecole Polytechnique)](https://www.polytechnique.edu/)
+  1. 6 membres du jury pour évaluer les jeux à la fin de la jam, comprenant un journaliste [(Canard PC)](https://www.canardpc.com/), un fondateur de studio [(Dowino)](https://www.dowino.com/), un youtubeur [(Histoire En Jeux)](https://www.youtube.com/channel/UCRThjUeXnxL_BKUhqJv5XBg), une chercheuse en game studies [(Université de Liège)](https://www.uliege.be/cms/c_8699436/fr/uliege), une cheffe de projet [(Ubisoft](https://www.ubisoft.com/fr-fr/) / [Ecole Polytechnique)](https://www.polytechnique.edu/)
   1. De nombreuses valorisations pour vous et vos projets :
   * Partenariat avec des twitcheurs pour streamer les jeux après la jam,
   * Interviews des équipes,
