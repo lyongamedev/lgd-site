@@ -1897,7 +1897,7 @@
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
-		white-space: nowrap;
+		/*white-space: nowrap;*/
 	}
 
 		input[type="submit"].icon:before,
@@ -1921,7 +1921,7 @@
 			text-indent: 4rem;
 			overflow: hidden;
 			padding: 0;
-			white-space: nowrap;
+			/*white-space: nowrap;*/
 		}
 
 			input[type="submit"].icon.solo:before,

@@ -24,7 +24,7 @@ Parmi les **18** jeux réalisés :
 
 ### Des conférences à voir et à revoir !
 
-Le colloque quand à lui, a vu défiler **24** intervenants dans **6** sessions autour de l’utilisation du jeu vidéo pour l’enseginement scolaire et universitaire, la recherche et la médiation culturelle et scientifique, avec entre **60** et **100** spectateurs simultanés.  
+Le colloque quand à lui, a vu défiler **24** intervenants dans **6** sessions autour de l’utilisation du jeu vidéo pour l’enseignement scolaire et universitaire, la recherche et la médiation culturelle et scientifique, avec entre **60** et **100** spectateurs simultanés.  
 Vous avez raté les interventions ? Pas de problème ! [Antoine]({{site.data.linkedin.antoinegouy}}) a tout capté en live ! 🙌
 
 <a href="https://www.youtube.com/playlist?list=PLkQZ_wQYyQf6WQwhXwJJy6nivwmWLJRvr" class="button special">👉 Retrouvez toutes les présentations en replay sur la chaine Youtube de Lyon Game Dev</a>
