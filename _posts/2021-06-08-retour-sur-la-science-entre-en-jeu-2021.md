@@ -24,20 +24,20 @@ Parmi les **18** jeux réalisés :
 
 ### Des conférences à voir et à revoir !
 
-Le colloque quand à lui, a vu défiler **24** intervenants dans **6** sessions autour de l’utilisation du jeu vidéo pour l’enseginement scolaire et universitaire, la recherche et la médiation culturelle et scientifique, avec entre **60** et **100** spectateurs simultanés. 
+Le colloque quand à lui, a vu défiler **24** intervenants dans **6** sessions autour de l’utilisation du jeu vidéo pour l’enseginement scolaire et universitaire, la recherche et la médiation culturelle et scientifique, avec entre **60** et **100** spectateurs simultanés.  
 Vous avez raté les interventions ? Pas de problème ! [Antoine]({{site.data.linkedin.antoinegouy}}) a tout capté en live ! 🙌
 
 <a href="https://www.youtube.com/playlist?list=PLkQZ_wQYyQf6WQwhXwJJy6nivwmWLJRvr" class="button special">👉 Retrouvez toutes les présentations en replay sur la chaine Youtube de Lyon Game Dev</a>
 
 ### Et même un concert pour clôre le tout !
 
-A la fin de l’évènement, il y a eu une soirée de clôture autour d’un concert inédit du [No Limit Orchestra](http://www.nolimitorchestra.com/) – merci à eux ! 
-Le tout était sur une plateforme, [Gather Town](https://gather.town/) (mitonné par [Pol]({{site.data.linkedin.polgraslandmongrain}}) et [Solenne]({{site.data.linkedin.solennemarty}})), où chaque participant incarne un personnage qui peut se déplacer, interagir avec les autres personnes à proximité, travailler sur des documents collaboratifs, se promener... 
+A la fin de l’évènement, il y a eu une soirée de clôture autour d’un concert inédit du [No Limit Orchestra](http://www.nolimitorchestra.com/) – merci à eux !  
+Le tout était sur une plateforme, [Gather Town](https://gather.town/) (mitonné par [Pol]({{site.data.linkedin.polgraslandmongrain}}) et [Solenne]({{site.data.linkedin.solennemarty}})), où chaque participant incarne un personnage qui peut se déplacer, interagir avec les autres personnes à proximité, travailler sur des documents collaboratifs, se promener...  
 Pour les curieux, nous nous sommes permis de demander des retours aux participants, jammeurs, conférenciers...
 
 <a href="https://mcusercontent.com/9c8ebfb5f84da4183b2b36718/files/d95d9345-f6f9-80db-19a4-91815bd27d0a/CompteRendu.pdf" class="button special">👉 Retrouvez les résultats de satifaction du festival !</a>
 
-Les retours sont très positifs, avec 92% des répondants qui ont donné une note de **6** ou **7** sur un maximum de 7, avec des commentaires comme *“L'orga de l'event était top, les colloques étaient top, bonne ambiance et gens géniaux.”*.
+Les retours sont très positifs, avec 92% des répondants qui ont donné une note de **6** ou **7** sur un maximum de 7, avec des commentaires comme *“L'orga de l'event était top, les colloques étaient top, bonne ambiance et gens géniaux.”*.  
 Un grand merci à tous ceux et toutes celles qui ont participé à ce festival ! On vous laisse avec l'after-movie du festival mis en image par [Maayane Odoux]({{site.data.linkedin.maayaneodoux}}) ! 🎞
 
 {% include youtubePlayer.html id="wYv2S4kqLb8" %}
