@@ -28,3 +28,6 @@ Jusqu'au 15 mars, bénéficiez de 30% de réduction, en rentrant le code **EARLY
 
 On recherche particulièrement des programmeurs, des graphistes et des compositeurs audio !  
 Pour toute question, contactez-nous à [contact@lyongamedev.pro](mailto:contact@lyongamedev.pro) 
+
+
+{% include youtubePlayer.html id="_sUvKvoK9I8" %}
