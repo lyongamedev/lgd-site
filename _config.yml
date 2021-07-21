@@ -37,11 +37,12 @@ disqus_shortname:   lyongamedev
 
 # Social
 analytics-id:       UA-102595610-1 
-facebook:           LyonGameDevPage
-facebookgroup:      groups/LyonGameDev
-twitter:            lyon_dev
-github:             lyongamedev
-linkedin:           company/lyongamedev/
+facebook:           http://facebookpage.lyongamedev.pro
+facebookgroup:      http://facebook.lyongamedev.pro
+twitter:            http://twitter.lyongamedev.pro
+discord:            http://discord.lyongamedev.pro
+github:             https://github.com/lyongamedev/
+linkedin:           https://linkedin.com/company/lyongamedev/
 
 # personal
 location:           Lyon, FR
