@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Découvrez les candidats au conseil d'administration"
-date: 2021-06-08
+date: 2021-09-17
 excerpt: "C'est la rentrée et l'assemblée généralede Lyon Game Dev prévue ce 30 septembre arrive à grands pas. Avec elle, nous renouvellons les mandats ..."
 image: "/images/articles/20210917_candidatsca/vote.webp"
 author: antoinegouy
