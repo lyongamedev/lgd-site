@@ -2,12 +2,12 @@
 layout: post
 title:  "Découvrez les candidats au conseil d'administration"
 date: 2021-09-17
-excerpt: "C'est la rentrée et l'assemblée généralede Lyon Game Dev prévue ce 30 septembre arrive à grands pas. Avec elle, nous renouvellons les mandats ..."
+excerpt: "C'est la rentrée et l'assemblée générale de Lyon Game Dev prévue ce 30 septembre arrive à grands pas. Avec elle, nous renouvellons les mandats ..."
 image: "/images/articles/20210917_candidatsca/vote.webp"
 author: antoinegouy
 comments: true
 ---
-C'est la rentrée et l'assemblée généralede Lyon Game Dev prévue ce 30 septembre arrive à grands pas. Avec elle, nous renouvellons les mandats (3 ans) de notre conseil d'administration.
+C'est la rentrée et l'assemblée générale de Lyon Game Dev prévue ce 30 septembre arrive à grands pas. Avec elle, nous renouvellons les mandats (3 ans) de notre conseil d'administration.
 
 ## Petit rappel statutaire :
 
@@ -79,7 +79,7 @@ Par ma candidature, j’espère porter cette perspective tout en restant dans la
 				<blockquote>
 				<h3>Bastien Bernand <a href="{{site.data.linkedin.bastienbernand}}" class="icon fab fa-linkedin" style="text-align:center" rel="nofollow"></a></h3> 				
 				<p>
-				Je vote pour participer à l'association, la faire vivre, et continuer d'animer ce réseau sympa de développeurs du jeu-vidéo à Lyon.
+				Je candidate pour participer à l'association, la faire vivre, et continuer d'animer ce réseau sympa de développeurs du jeu-vidéo à Lyon.
 				</p>
 				</blockquote>
 			</div>
