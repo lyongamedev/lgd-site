@@ -47,11 +47,11 @@ Sur lundi et mardi, plusieurs sessions ont eu lieu avec des conférences passion
 
 Vous pouvez retrouver le replay des conférences par ici : [http://youtube3.lascienceentreenjeu.fr/](http://youtube3.lascienceentreenjeu.fr/)
 
-<span class="image fit"><img src="{{ "/images/articles/20211130_lseej3/image3.jpg" | absolute_url }}" alt="Capture d'un entretien de la Science Entre En Jeu 3" /></span>
+<span class="image fit"><img src="{{ "/images/articles/20211130_lseej3/image2.jpg" | absolute_url }}" alt="Capture d'un entretien de la Science Entre En Jeu 3" /></span>
 
 Un quiz scientifique proposé par [Démesures](https://demesures.jimdo.com/), de la bonne humeur sur des stands, et une visite guidée improvisée de l’espace Gather.Town pour les volontaires.
 
-<span class="image fit"><img src="{{ "/images/articles/20211130_lseej3/image3.jpg" | absolute_url }}" alt="Les évènements de la Science Entre En Jeu en images" /></span>
+<span class="image fit"><img src="{{ "/images/articles/20211130_lseej3/image1.jpg" | absolute_url }}" alt="Les évènements de la Science Entre En Jeu en images" /></span>
 
 ### Clôture du festival
 Le jury a eu la mission de tester les 12 projets et d’attribuer les prix. Et ce n’était pas une mince affaire car il y a eu du niveau dans les propositions !
