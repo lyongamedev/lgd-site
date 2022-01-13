@@ -20,7 +20,7 @@ Le but ? Mettre en visbilité, planifier et soutenir les actions de communicatio
 Pour se faire Lyon Game Dev lance un appel pour deux postes de membres actifs bénévoles en tant que chargé·e de communication et graphiste. 
 Les postes sont ouverts :
   - Aux membres adhérents de l'association. Mais si vous ne l'êtes pas encore (vous pouvez toujours [adhérer](http://adhesion.lyongamedev.pro) 😲), le conseil d'administration vous proposera sinon de devenir membres d'honneur pour service rendu cette année 🙌
-  - Aus salariés, étudiants, indés... bref à tout profils intéressé·e·s.
+  - Aus salariés, étudiants, indés... bref à tous profils intéressé·e·s.
   
 Vous pouvez retrouver [les fiches de postes et notre monde idéal 👉 ici.](https://docs.google.com/document/d/19rRTzigfITLbvdkkq5MyI-nAK8K_Cn9HOmZ8J67aA6c/edit?usp=sharing)
 Evidemment les postes sont à co-construire avec les équipes associatives en place en fonction de ton profil, ta disposition, ta vision de l'association ! 
