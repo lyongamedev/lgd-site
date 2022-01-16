@@ -26,7 +26,6 @@ Le responsable du traitement est l'association :
 Lyon Game Dev
 28 rue Léon Fabre  
 69100 Villeurbanne  
-69001 Lyon  
 {{ site.emailasso }}
 
 
