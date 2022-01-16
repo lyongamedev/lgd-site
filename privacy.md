@@ -33,8 +33,8 @@ Lyon Game Dev
 L'association Lyon Game Dev est susceptible de traiter vos Informations Personnelles :
   - aux fins de vous fournir les informations ou les services que vous avez demandés : l'inscription en tant membre adhérents à l'association.
   - l'accès à nos réseaux sociaux via une mise en relation avec votre compte suer ce même réseau (Discord, Facebook, Linkedin, twitter)
-  - aux fins de recueillir des informations nous permettant d’améliorer notre Site, nos produits et services (notamment par le biais de cookies) ; et/ou<
-  - aux fins de pouvoir vous contacter à propos de différents évènements relatifs à l'association Lyon Game Dev, incluant notamment la mise à jour du site et le support client.</li>
+  - aux fins de recueillir des informations nous permettant d’améliorer notre Site, nos produits et services (notamment par le biais de cookies) ; et/ou
+  - aux fins de pouvoir vous contacter à propos de différents évènements relatifs à l'association Lyon Game Dev, incluant notamment la mise à jour du site et le support client.
 
 ### 3.Destinataires
 Seule l'association Lyon Game Dev opère vos Informations Personnelles à des fins des traitement comme stipulé au point 2 de cette mpême politique. Ni Lyon Game Dev, ni l’un quelconque de ses sous-traitants, ne procèdent à la commercialisation des données personnelles des visiteurs et Utilisateurs de leur Site.
