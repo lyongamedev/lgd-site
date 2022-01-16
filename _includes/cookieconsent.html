@@ -1,0 +1,59 @@
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.addEventListener('load', function(){
+  window.cookieconsent.initialise({
+   revokeBtn: "<div class='cc-revoke'></div>",
+   type: "opt-in",
+   theme: "classic",
+   palette: {
+       popup: {
+           background: "#eee",
+           text: "#889"
+        },
+       button: {
+           background: "#58f",
+           text: "#fff"
+        }
+    },
+   content: {
+       message: "Nous souhaitons utiliser des cookies et des scripts tiers pour améliorer la fonctionnalité de ce site Web.",
+       link: "En savoir plus",
+       allow: "Accepter",
+       deny: "Non merci",
+       href: "https://lyongamedev.pro/privacy"
+    },
+    onInitialise: function(status) {
+      if(status == cookieconsent.status.allow) myScripts();
+    },
+    onStatusChange: function(status) {
+      if (this.hasConsented()) myScripts();
+    }
+  })
+});
+
+
+function myScripts() {
+
+/*This function will load script and call the callback once the script has loaded*/
+function loadScriptAsync(scriptSrc, callback) {
+    if (typeof callback !== 'function') {
+        throw new Error('Not a valid callback for async script load');
+    }
+    var script = document.createElement('script');
+    script.onload = callback;
+    script.src = scriptSrc;
+    document.head.appendChild(script);
+}
+
+/* This is the part where you call the above defined function and "call back" your code which gets executed after the script has loaded */
+loadScriptAsync('https://www.googletagmanager.com/gtag/js?id={{ site.analytics-id }}', function(){
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.analytics-id }}', { 'anonymize_ip': true });
+})
+
+
+}
+</script>

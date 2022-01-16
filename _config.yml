@@ -5,6 +5,7 @@ description:        "Pionnière du brassage vidéoludique à partir de gros pixe
 logo:               <img src="/images/LGD_Logo_White.png" alt="LyonGameDev Logo">
 locale:             fr_FR
 email:              contact@lyongamedev.pro
+emailasso:          association@lyongamedev.pro
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lyongamedev.pro" # the base hostname & protocol for your site
 
