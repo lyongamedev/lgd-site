@@ -27,7 +27,7 @@ Hébergement : Github Page
 
 ## Conditions générales d’utilisation
 L’utilisateur reconnaît avoir pris connaissance des présentes conditions générales d’utilisation et s’engage à les respecter.
-BelleBouffe se réserve le droit de modifier et de mettre à jour, sans préavis, les présentes mentions légales et tous les éléments présentés sur le site. L’ensemble de ces modifications s’impose aux internautes qui doivent consulter les conditions générales d’utilisation lors de chaque connexion.
+Lyon Game Dev se réserve le droit de modifier et de mettre à jour, sans préavis, les présentes mentions légales et tous les éléments présentés sur le site. L’ensemble de ces modifications s’impose aux internautes qui doivent consulter les conditions générales d’utilisation lors de chaque connexion.
 
 ## Informatique et libertés
 Conformément à l’article 34 de la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, vous disposez d’un droit d’accès aux informations vous concernant. Vous pouvez également modifier ou supprimer ces informations en vous adressant à Lyon Game Dev :
