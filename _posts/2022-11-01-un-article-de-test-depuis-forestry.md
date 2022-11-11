@@ -8,4 +8,4 @@ author: Antoine Gouy
 comments: true
 
 ---
-Ceci est un essai d'article depuios un CMS headless
+Ceci est un essai d'article depuis un CMS headless
