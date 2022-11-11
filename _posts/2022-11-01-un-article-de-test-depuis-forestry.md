@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: post
 title: Un article de test depuis forestry
 date: 2022-11-01 00:00:00 +0100
 excerpt: Un essai de texte
