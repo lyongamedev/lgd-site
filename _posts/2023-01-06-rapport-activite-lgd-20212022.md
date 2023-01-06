@@ -17,7 +17,8 @@ Dans cette attente, l'équipe 2021-2022 constituée de :
 - [Antoine Gouy]({{site.data.linkedin.antoinegouy}}) en qualité de trésorier,
 - [Martin Ringot]({{site.data.linkedin.martinringot}}) en qualité de vice-trésorier,
 - [Solenne Marty]({{site.data.linkedin.solennemarty}}) en qualité de secrétaire,
-- [Bastien Bernand]({{site.data.linkedin.bryanboni}}) en qualité de vice-secrétaire,
+- [Bastien Bernand]({{site.data.linkedin.bastienbernand}}) en qualité de vice-secrétaire,
+- [Aurélien Thazet]({{site.data.linkedin.aurelienthazet}}) en qualité d'administrateur,
 
 a souhaité vous présentez son rapport d'activité pour l'année passée :
 
