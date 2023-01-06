@@ -2,7 +2,7 @@
 layout: post
 title:  "Découvrez le rapport d'activités 2021-2022 pour Lyon Game Dev"
 date: 2023-01-06
-excerpt: "L'équipe Lyon Game Dev a la plaisir du vous présenter son rapport d'activités 2021-2022..."
+excerpt: "L'équipe Lyon Game Dev à le plaisir de vous présenter son rapport d'activités 2021-2022..."
 image: "/images/articles/20230106-rapportactivites-lgd-20212022/01-photorapportactivites2122.jpg"
 author: antoinegouy
 comments: true
