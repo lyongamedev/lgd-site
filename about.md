@@ -25,7 +25,7 @@ Servir des espaces de parole est notre activité.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrYTfBLnlxUhVhS5?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-(L'élection du bureau est prévu le 4 novembre 2021 au soir au sein du conseil d'administration)
+(L'élection du bureau est prévu le 28 ocotbre 2022 au soir au sein du conseil d'administration)
 
 #### Les anciens conseil d'administration
 
