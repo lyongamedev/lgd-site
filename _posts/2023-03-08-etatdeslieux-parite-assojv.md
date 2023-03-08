@@ -42,6 +42,6 @@ C’est pourquoi avec le pôle **Diversité, Prévention et Inclusion (DPI)**, o
 
 ## Tu veux en savoir plus ?
 
-Retrouves sur 👉 [Discord](http://discord.lyongamdev.pro), 👉 [adhère à notre association](http://adhesion.lyongamedev.pro) ou [diffuse notre infographie](/images/articles/20230308-etatdeslieux-parite-assojv/infographie-enqueteparite-assojv-dpi-lgd.png) !
+Retrouves nous sur 👉 [Discord](http://discord.lyongamdev.pro), 👉 [adhère à notre association et rejoins notre conseil d'amdministration](http://adhesion.lyongamedev.pro) ou [diffuse notre infographie](/images/articles/20230308-etatdeslieux-parite-assojv/infographie-enqueteparite-assojv-dpi-lgd.png) !
 
 Cheers ! ❤️
