@@ -3,7 +3,7 @@ layout: page
 title: Les outils de la communauté Lyon Game Dev
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2023-03-08
     changefreq: weekly
 ---
 
@@ -16,12 +16,11 @@ sitemap:
 ## Nos documents associatifs
 
 Vous êtes adhérents ou aspirants adhérents ? Retrouvez les documents associatifs de LyonGameDev en lecture seule :
-  - [Nos statuts.](https://drive.google.com/file/d/11FJPtwsYjCBd7rEnaHTmZ9BKadaH729I/view?usp=sharing)
-  - [Notre règlement intérieur.](https://drive.google.com/file/d/1n7b5Dx2yKWOuuGynbd8ad5ml8NUzwP8o/view?usp=sharing)
-  - [Nos fiches de rôles.](https://drive.google.com/file/d/1Mg7cO3uIZ1eiv198vFtZusn1xGa6bIIi/view?usp=sharing)
-  - [Notre listing de distribution des rôles.](https://docs.google.com/spreadsheets/d/1xtHRVN3UcXq73rehMss6hE-VSY_yKCUJttywr1a7fwE/edit?usp=sharing)
-  - [Nos comptes rendus d'assemblée générale.](https://drive.google.com/drive/folders/1a4sA5IokfsL4TvZtsv5w_u1xEN3VKadw?usp=sharing)
-  - [Nos comptes rendus de réunion en CA.](https://drive.google.com/drive/folders/10-kB9ncnr35gsYJYCimN0gwez2q-spWS?usp=sharing)
+  - [Nos statuts.](https://drive.google.com/file/d/193BLzWVgr7fucKHbC3wxuSiGB2r1Lwbf/view?usp=share_link)
+  - [Notre règlement intérieur.](https://drive.google.com/file/d/1ttlqUPhgO_-b2idKC30B3ecijk0en37f/view?usp=share_link)
+  - [Nos fiches de rôles.](https://drive.google.com/file/d/1AuoYEIMOTUAyz-aT6yVI1g_SxdTnpEsR/view?usp=share_link)
+  - [Nos comptes rendus d'assemblée générale.](https://drive.google.com/drive/folders/1slWH1BTMY5mX0LtojqG_WXlHJLvK7ul2?usp=share_link)
+  - [Nos comptes rendus de réunion en CA.](https://drive.google.com/drive/folders/1PZFSQnJLDA2VMZXbeDeE0521ze3lgtOu?usp=share_link)
 
 --------------------
 
