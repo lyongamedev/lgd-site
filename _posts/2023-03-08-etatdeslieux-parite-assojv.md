@@ -3,7 +3,7 @@ layout: post_noimage
 title:  "Spécial 8 mars : parité et asso' du jeu vidéo ?"
 date: 2023-03-08
 excerpt: "Pol Grasland-Mongrain et le nouveau comité Diversité, Prévention et Inclusion, vous présente l'état des lieux 2023 sur la parité dans les conseils d’administrations de 20 associations françaises du jeu vidéo..."
-image: "/images/articles/20230308-enquete-parite-assojv/image1.png"
+image: "/images/articles/20230308-etatdeslieux-parite-assojv/image1.png"
 author: solennemarty
 comments: true
 ---
@@ -17,7 +17,7 @@ Nous sommes heureux de vous communiquez nos constats et résultats :
  > **2 administrateur.rice.s sur 3 sont des hommes.  
  > 2 président.e.s sur 3 sont des hommes.**
 
-<span class="image fit"><a href="{{ "/images/articles/20230308-enquete-parite-assojv/infographie-enqueteparite-assojv-dpi-lgd.png" | absolute_url }}" alt="état des lieux sur la parité dans les conseils d'administration des associations du jeu vidéo"><img src="{{ "/images/articles/20230308-enquete-parite-assojv/infographie-enqueteparite-assojv-dpi-lgd.png" | absolute_url }}" alt="Infographie de l'état des lieux"/></a></span>
+<span class="image fit"><a href="{{ "/images/articles/20230308-etatdeslieux-parite-assojv/infographie-enqueteparite-assojv-dpi-lgd.png" | absolute_url }}" alt="état des lieux sur la parité dans les conseils d'administration des associations du jeu vidéo"><img src="{{ "/images/articles/20230308-etatdeslieux-parite-assojv/infographie-enqueteparite-assojv-dpi-lgd.png" | absolute_url }}" alt="Infographie de l'état des lieux"/></a></span>
 
 Si l’on retire [Women In Games FR](https://womeningamesfrance.org/)  et [les Afrogameuses](https://www.afrogameuses.com/) de la liste, qui travaillent justement sur une meilleure représentativité des femmes dans le jeu vidéo, le ratio passe à **3 sur 4.**
  
@@ -42,6 +42,6 @@ C’est pourquoi avec le pôle **Diversité, Prévention et Inclusion (DPI)**, o
 
 ## Tu veux en savoir plus ?
 
-Retrouves sur 👉 [Discord](http://discord.lyongamdev.pro), 👉 [adhère à notre association](http://adhesion.lyongamedev.pro) ou [diffuse notre infographie](infographie-enqueteparite-assojv-dpi-lgd.png) !
+Retrouves sur 👉 [Discord](http://discord.lyongamdev.pro), 👉 [adhère à notre association](http://adhesion.lyongamedev.pro) ou [diffuse notre infographie](/images/articles/20230308-etatdeslieux-parite-assojv/infographie-enqueteparite-assojv-dpi-lgd.png) !
 
 Cheers ! ❤️
