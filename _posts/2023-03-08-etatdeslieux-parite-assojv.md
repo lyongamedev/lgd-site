@@ -2,7 +2,7 @@
 layout: post_noimage
 title:  "Spécial 8 mars : parité et asso' du jeu vidéo ?"
 date: 2023-03-08
-excerpt: "Pol Grasland-Mongrain et le nouveau comité Diversité, Prévention et Inclusion, vous présente l'état des lieux 2023 sur la parité dans les conseils d’administrations de 20 associations françaises du jeu vidéo..."
+excerpt: "PLe nouveau comité Diversité, Prévention et Inclusion, vous présente l'état des lieux 2023 sur la parité dans les conseils d’administrations de 20 associations françaises du jeu vidéo..."
 image: "/images/articles/20230308-etatdeslieux-parite-assojv/image1.png"
 author: solennemarty
 comments: true
