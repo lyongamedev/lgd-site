@@ -1,38 +1,38 @@
 <section>
 	<div id="author-section" class="box">
       <!--include author image if there is an author image -->
-	  {% if author.profil %}
+	  {% if specificauthor.profil %}
 	  <span class="image author">
-         <img src="{{author.profil}}" class="author-img" height="100px">
+         <img src="{{specificauthor.profil}}" class="author-img" height="100px">
 	</span>
       {% endif %}
-         <h4>Par {{author.name}}</h4>
+         <h4>Par {{specificauthor.name}}</h4>
 		 <ul class="icons">
 			<!-- include link to author's email if they have provided a email account -->
-           {% if author.email %}
-              <li><a href="{{author.email}}" class="icon far fa-envelope"><span class="label">Email</span></a></li>
+           {% if specificauthor.email %}
+              <li><a href="{{specificauthor.email}}" class="icon far fa-envelope"><span class="label">Email</span></a></li>
             {% endif %}
 			<!-- include link to author's website if they have provided a website account -->
-           {% if author.website %}
-              <li><a href="{{author.website}}" class="icon fas fa-globe"><span class="label">Website</span></a></li>
+           {% if specificauthor.website %}
+              <li><a href="{{specificauthor.website}}" class="icon fas fa-globe"><span class="label">Website</span></a></li>
             {% endif %}
 		    <!-- include link to author's facebook if they have provided a facebook account -->
-           {% if author.facebook %}
-              <li><a href="{{author.facebook}}" class="icon fab fa-facebook-f"><span class="label">Facebook</span></a></li>
+           {% if specificauthor.facebook %}
+              <li><a href="{{specificauthor.facebook}}" class="icon fab fa-facebook-f"><span class="label">Facebook</span></a></li>
             {% endif %}
             <!-- include link to author's twitter if they have provided a twitter account -->
-           {% if author.twitter %}
-              <li><a href="{{author.twitter}}" class="icon fab fa-twitter"><span class="label">Twitter</span></a></li>
+           {% if specificauthor.twitter %}
+              <li><a href="{{specificauthor.twitter}}" class="icon fab fa-twitter"><span class="label">Twitter</span></a></li>
             {% endif %}
 			<!-- include link to author's linkedin if they have provided a linkedin account -->
-          {% if author.linkedin %}
-              <li><a href="{{author.linkedin}}" class="icon fab fa-linkedin"><span class="label">Linkedin</span></a></li>
+          {% if specificauthor.linkedin %}
+              <li><a href="{{specificauthor.linkedin}}" class="icon fab fa-linkedin"><span class="label">Linkedin</span></a></li>
             {% endif %}
 			<!-- include link to author's github if they have provided a github account -->
-          {% if author.facebook %}
-              <li><a href="{{author.github}}" class="icon fab fa-github"><span class="label">Github</span></a></li>
+          {% if specificauthor.facebook %}
+              <li><a href="{{specificauthor.github}}" class="icon fab fa-github"><span class="label">Github</span></a></li>
            {% endif %}
 		   </ul>
-		   <p>{{ author.about }}</p>
+		   <p>{{ specificauthor.about }}</p>
    </div>
 </section>
