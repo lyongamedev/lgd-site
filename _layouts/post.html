@@ -53,10 +53,14 @@
       				<h1>{{page.title}}</h1>
       				<p>{{page.excerpt}}</p>
       			</header>
-      			<div class="image main"><img src="{{page.image}}" alt=""></div>
+      			{% if page.hideimage %}
+      			{% else %}
+      			<div class="image main"><img src="{{page.image}}" alt=""></div> {% endif %}
       			<p>{{content}}</p>
-		{% assign author = site.data.authors[page.author] %}
+    {% for author in page.author %}
+				{% assign specificauthor = site.data.authors[author] %}
         {% include  author.html %}
+    {% endfor %}
       		</section>
 		{% if	page.comments %}
         {% include  disqus.html %}
