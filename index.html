@@ -1,0 +1,151 @@
+---
+layout: null
+title: Lyon Game Dev
+description: Pionnière du brassage vidéoludique à partir de gros pixels non-aliasés, l’association Lyon Game Dev mélange l’écosystème professionnel du jeu-vidéo lyonnais depuis 2013.
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+            			<h1>{{site.logo}}</h1>
+						<h2>Les brasseurs du jeu-vidéo lyonnais.</h2>
+						<p>Bières, pitchs et gros pixels...</p>
+						<ul class="actions">
+							<li><a href="#header" class="button forcefontawesome icon solo scrolly fas fa-angle-double-down">Tu te demandes ce que l’on brasse ?</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.logo}}</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<h2><a href="#">L'association LyonGameDev</a></h2>
+									<p>La rencontre mensuelle des créateurs de jeu-vidéo lyonnais,<br />
+                    					Et plus encore !</p>
+								</header>
+								<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
+                				<p>
+                					Nous sommes le premier jeudi du mois et il est 20h00.<br />
+                					Détends-toi !<br />
+                				<br />
+									Viens échanger avec d’autres professionnels lyonnais (graphistes, développeurs, concepteurs, level designer, etc.) du monde du jeu vidéo dans un bar autour d’un verre ou en ligne sur les plateformes LyonGameDev. Découvres le travail des uns et des autres de façon informelle et si tu l’oses : prends la parole en t’appuyant sur l’un des formats d’animation que nous mettons à disposition !
+								</p>
+
+								<p>
+									Ces animations aux formats variés, permettent de découvrir des sujets, engager des collaborations, présenter des projets tout en restant dans un cadre convivial et bienveillant. Tu peux nous contacter par mail pour avoir plus d’informations.
+
+								<h2>Une communauté</h2>
+								<p>
+									Rejoins nos outils pour recevoir toutes les informations ! Nous sommes présents sur <a href="https://facebook.lyongamedev.pro" title="Lien vers la communauté sur Facebook">Facebook</a>, <a href="https://youtube.lyongamedev.pro" title="Lien vers la chaine">Youtube</a>, <a href="https://discord.lyongamedev.pro" title"Invitation vers le Discord LGD">Discord</a> et à d'autres endroits encore. Ou explore nos articles de blogs et nos actualités...
+								</p>
+								</p>
+								</article>
+
+							
+						<!-- Posts -->
+							<section class="posts">
+                {% for post in site.posts limit:4 %}
+                {% assign mod3 = forloop.index | modulo: 4 %}
+  								<article>
+  									<header>
+  										<span class="date">
+										<!-- Whitespace added for readability -->
+										{% assign m = post.date | date: "%-m" %}
+										{{ post.date | date: "%-d" }}
+										{% case m %}
+										{% when '1' %}Janvier
+										{% when '2' %}Février
+										{% when '3' %}Mars
+										{% when '4' %}Avril
+										{% when '5' %}Mai
+										{% when '6' %}Juin
+										{% when '7' %}Juillet
+										{% when '8' %}Août	
+										{% when '9' %}Septembre
+										{% when '10' %}Octobre
+										{% when '11' %}Novembre
+										{% when '12' %}Décembre
+										{% endcase %}
+										{{ post.date | date: "%Y" }}
+										</span>
+  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  									</header>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Lire la suite</a></li>
+  									</ul>
+  								</article>
+<!--                  {% if mod3 == 0 %}
+                  <article>
+  									<header>
+  										<h2><a href="#">Sponsored</a></h2>
+  									</header>
+
+  								</article>
+                  {% endif %}-->
+                {% endfor %}
+
+							</section>
+
+							<article class="post featured">
+							<h2>Envie d'en voir plus ?</h2>
+								<ul class="actions">
+									<li><a href="{{ "/blog/" | absolute_url }}" class="button">Vers le blog</a></li>
+								</ul>
+							</article>
+
+						<!-- Footer -->
+							<footer>
+				<section>
+<h2>LyonGameDev sur les réseaux</h2>
+<iframe allowfullscreen id="wallsio-iframe" src="https://my.walls.io/q6yud?nobackground=1&amp;show_header=0" style="border:0;height:800px;width:100%" loading="lazy" title="My social wall"></iframe>
+</section>
+							</footer>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+			{% include cookieconsent.html %}
+
+	</body>
+</html>

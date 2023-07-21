@@ -1,0 +1,77 @@
+#Authors
+    antoinegouy:
+        sexe: H
+        name: Antoine Gouy
+        about: Multipotentiel - Addict aux startups / jeux-vidéo | Designer UI/UX | Formateur dans la tech/art | Ambassadeur Holacracy
+        website: https://gouy-antoine.com/
+        facebook: https://www.facebook.com/antoine.gouy.1
+        twitter: https://twitter.com/AntoineGouy
+        github: https://github.com/Caidezel
+        linkedin: https://www.linkedin.com/in/antoinegouy/
+        profil: /images/authors/antoinegouy.jpeg
+        
+    tiffanyvaquie:
+        sexe: F
+        name: Tiffany Vaquié
+        about: Grand intérêt pour l'industrie du jeu vidéo, l'entraide, l'économie sociale et solidaire et la transmission.
+        website: 
+        facebook: 
+        twitter: 
+        github: 
+        linkedin: https://www.linkedin.com/in/tiffany-v-2a1170131/
+        profil: /images/authors/tiffanyvaquie.jpg
+        
+    nicolasvienat:
+        sexe: M
+        name: Nicolas Vienat
+        about: Apprendre et découvrir. Depuis 2013, je me forme sur différents langages de développements informatiques et plus spécifiquement sur les technologies C#, ASP. NET au cours de mes 3 premières années d’alternance.
+        website: 
+        facebook: 
+        twitter: 
+        github: 
+        linkedin: https://www.linkedin.com/in/vienat-nicolas-5b0ab897/
+        profil: /images/authors/nicolasvienat.jpg
+
+    thomasgonzalez:
+        sexe: M
+        name: Thomas Gonzalez
+        about: Dev Tester 3C @ Ubisoft Ivory Tower, je travaille aussi sur 2 projets indés - Astre & Casa Nyxa.
+        website: https://conkerjak.itch.io/
+        facebook: 
+        twitter: 
+        github: 
+        linkedin: hhttps://www.linkedin.com/in/thomas-gonzalez-9bab8574/
+        profil: /images/authors/thomasgonzalez.jpg
+
+    polgraslandmongrain:
+        sexe: M
+        name: Pol Grasland-Mongrain
+        about: Capitaine-développeur en chef de Abyss Crew, fana de sciences et de jeu-vidéo !
+        website: http://polgm.free.fr/
+        facebook: 
+        twitter: https://twitter.com/polGM1
+        github: 
+        linkedin: 
+        profil: /images/authors/polgraslandmongrain.jpg
+
+    solennemarty:
+        sexe: F
+        name: Solenne Marty
+        about: 3D Game Artist, sensible aux jeux vidéo porteurs de sens (handicap, écologie, harcèlement etc), à l’entraide et adore tout ce qui est coloré.
+        website: https://latelierdetaryne-aly.com/
+        facebook: 
+        twitter:
+        github: 
+        linkedin: https://www.linkedin.com/in/solenne-marty-3d-game-artist/
+        profil: /images/authors/solennemarty.jpg
+
+    ludovicbas:
+        sexe: M
+        name: Ludovic Bas
+        about: Développeur indépendant et CEO de Lugludum.
+        website: https://www.loudoweb.fr/
+        facebook: 
+        twitter: https://twitter.com/loudoweb
+        github: https://github.com/loudoweb
+        linkedin: https://www.linkedin.com/in/ludovic-bas-71649b91/
+        profil: /images/authors/ludovicbas.jpg

@@ -1,0 +1,52 @@
+<footer id="footer">
+  <section>
+    <form method="POST" action="https://formspree.io/{{site.email}}">
+      <div class="field">
+        <label for="title">Formulaire de contact</label>
+      </div>
+      <div class="field">
+        <label for="name">Nom</label>
+        <input type="text" name="name" id="name" />
+      </div>
+      <div class="field">
+        <label for="email">Email</label>
+        <input type="text" name="email" id="email" />
+      </div>
+      <div class="field">
+        <label for="message">Message</label>
+        <textarea name="message" id="message" rows="3"></textarea>
+      </div>
+      <ul class="actions">
+        <li><input type="submit" value="Envoyer" /></li>
+      </ul>
+    </form>
+  </section>
+  <section class="split contact">
+	  <section>
+		<h3>Adhérer</h3>
+      <a href="http://www.adhesion.lyongamedev.pro">Retrouvez-nous sur HelloAsso !</a>
+    </section>
+	 <section>
+      <h3>Mails</h3>
+      <p><a href="mailto:{{site.email}}" title="Pour nous contacter">{{site.email}}</a></br>
+	  <a href="mailto:association@lyongamedev.pro" title="Pour nos adhérents">association@lyongamedev.pro</a></br>
+	  <a href="mailto:events@lyongamedev.pro" title="Pour nos évènements">events@lyongamedev.pro</a></p>
+	</section>
+    <section>
+      <h3>Retrouvez-nous</h3>
+        <ul class="icons alt">
+           {% include social.html %}
+        </ul>
+    </section>      
+  </section>
+</footer>
+<!-- Copyright -->
+<div id="copyright">
+  <ul>
+    <li>&copy; LyonGameDev 2018</li>
+    <li><a href="/privacy">Politique de données</a></li>
+    <li><a href="/legal">Mentions légales</a></li>
+    <li>Développé par <a href="{{site.data.linkedin.antoinegouy}}">Antoine Gouy</a></li>
+    <li>Sur un theme de <a href="https://html5up.net" rel="nofollow">HTML5 UP</a> et <a href="https://soundgrail.com">SoundGrail</a></li>
+  </ul>
+</div>

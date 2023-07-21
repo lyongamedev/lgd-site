@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+        <header id="header">
+          <a href="{{ "/" | absolute_url }}" class="logo">{{site.logo}}</a>
+        </header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+          <section class="post">
+    				<header class="major">
+      				<span class="date">
+						<!-- Whitespace added for readability -->
+						{% assign m = page.date | date: "%-m" %}
+						{{ page.date | date: "%-d" }}
+						{% case m %}
+						{% when '1' %}Janvier
+						{% when '2' %}Février
+						{% when '3' %}Mars
+						{% when '4' %}Avril
+						{% when '5' %}Mai
+						{% when '6' %}Juin
+						{% when '7' %}Juillet
+						{% when '8' %}Août	
+						{% when '9' %}Septembre
+						{% when '10' %}Octobre
+						{% when '11' %}Novembre
+						{% when '12' %}Décembre
+						{% endcase %}
+						{{ page.date | date: "%Y" }}
+					</span>
+      				<h1>{{page.title}}</h1>
+      				<p>{{page.excerpt}}</p>
+      			</header>
+      			<p>{{content}}</p>
+		{% assign author = site.data.authors[page.author] %}
+        {% include  author.html %}
+      		</section>
+		{% if	page.comments %}
+        {% include  disqus.html %}
+		{% endif %}
+		
+					<!-- Footer -->
+						<footer>
+              <ul class="actions">
+                <li><a href="{{ "/blog/" | absolute_url }}" class="button">Retour sur notre blog</a></li>
+              </ul>
+						</footer>
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+      <!-- Scripts -->
+  		{% include scripts-main.html %}
+			{% include cookieconsent.html %}
+	</body>
+</html>

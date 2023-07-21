@@ -1,0 +1,70 @@
+# Site
+title:              Lyon Game Dev
+bio:                'Les brasseurs du jeu-vidéo lyonnais'
+description:        "Pionnière du brassage vidéoludique à partir de gros pixels non-aliasés, l’association Lyon Game Dev mélange l’écosystème professionnel du jeu-vidéo lyonnais depuis 2013."
+logo:               <img src="/images/LGD_Logo_White.png" alt="LyonGameDev Logo">
+locale:             fr_FR
+email:              contact@lyongamedev.pro
+emailasso:          association@lyongamedev.pro
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lyongamedev.pro" # the base hostname & protocol for your site
+
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    author:
+
+# Jekyll
+permalink:          /blog/:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Comments
+disqus_shortname:   lyongamedev
+
+# Social
+analytics-id:       UA-102595610-1 
+facebook:           http://facebookpage.lyongamedev.pro
+facebookgroup:      http://facebook.lyongamedev.pro
+twitter:            http://twitter.lyongamedev.pro
+discord:            http://discord.lyongamedev.pro
+github:             https://github.com/lyongamedev/
+linkedin:           https://linkedin.com/company/lyongamedev/
+twitch:             http://twitch.lyongamedev.pro
+youtube:            http://youtube.lyongamedev.pro
+
+# personal
+location:           Lyon, FR
+email:              contact@lyongamedev.pro
+
+# Plugins
+plugins:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+#  - jekyll-responsive-image
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
