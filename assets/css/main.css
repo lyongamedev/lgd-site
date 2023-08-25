@@ -3753,6 +3753,29 @@
 
 		}
 
+/* Social Wall */
+
+		#socialwall input[type="submit"], 
+		#socialwall input[type="reset"],
+		#socialwall	input[type="button"], 
+		#socialwall button, 
+		#socialwall .button {
+			box-shadow: none;
+		}
+			
+			
+		#socialwall input[type="submit"]:hover, 
+		#socialwall input[type="reset"]:hover,
+		#socialwall	input[type="button"]:hover, 
+		#socialwall button:hover, 
+		#socialwall .button:hover {
+			box-shadow: none;
+		}
+		
+		#socialwall a{
+		border-bottom: none;
+		}
+
 /* Footer */
 
 	#footer {

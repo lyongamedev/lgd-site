@@ -40,7 +40,7 @@
 			'border-color #{_duration(transition)} ease-in-out',
 			'box-shadow #{_duration(transition)} ease-in-out'
 		));
-		border-bottom: dotted 1px;
+		/*border-bottom: dotted 1px;*/
 		text-decoration: none;
 
 		&:hover {
@@ -179,7 +179,7 @@
 		}
 
 		a {
-			color: _palette($p, fg-bold);
+			color: _palette($p, links);
 			border-bottom-color: transparentize(_palette($p, fg), 0.5);
 
 			&:hover {
