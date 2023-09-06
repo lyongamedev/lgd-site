@@ -5,7 +5,7 @@ date: 2023-09-06
 excerpt: "Vendredi 13 Octobre à 19h30 au Puzzle Inn, en association avec Lyon Game Dev, Elizabeth MALER de la maison d'édition Abiding Bridge vous propose un moment de retour d'expérience et d'échange sur le sujet de l'édition de jeu-vidéo, avec un zoom sur le cas de Sclash..."
 image: "/images/articles/20230906-evenement-abiding-bridge/abiding-bridge.jpg"
 author: 
-  - jonastencate
+  - bastienbernand
 comments: true
 ---
 Vendredi 13 Octobre à 19h30 au Puzzle Inn, en association avec Lyon Game Dev, Elizabeth MALER de la maison d'édition Abiding Bridge vous propose un moment de retour d'expérience et d'échange sur le sujet de l'édition de jeu-vidéo, avec un zoom sur le cas de [Sclash](https://store.steampowered.com/app/1284130/Sclash/) récemment co-publié avec l'éditeur Just For Games sur PC et bientôt sur consoles. 
