@@ -15,7 +15,8 @@ Vous pouvez vous inscrire si vous comptez venir, c'est gratuit, avec la même am
 L'inscription n'est pas obligatoire mais nous permet de savoir à l'avance combien de personnes viendront. 
 
 **Inscription :**
-https://www.helloasso.com/associations/lyon-game-dev/evenements/retour-d-xp-publishing-et-sclash-avec-abiding-bridge-2
+[https://www.helloasso.com/associations/lyon-game-dev/evenements/retour-d-xp-publishing-et-sclash-avec-abiding-bridge-2](https://www.helloasso.com/associations/lyon-game-dev/evenements/retour-d-xp-publishing-et-sclash-avec-abiding-bridge-2
+)
 
 
 <div class="box alt">
@@ -28,9 +29,6 @@ https://www.helloasso.com/associations/lyon-game-dev/evenements/retour-d-xp-publ
 
 Abiding Bridge est une maison d’édition de jeux vidéo indépendants, mais pas que.
 Notre équipe fait le lien entre vous et l’industrie du jeu vidéo, via une large gamme de services. Nous organisons aussi des formations en ligne pour démocratiser l’accès à la connaissance
-
-
-
 
 On espère vous y voir nombreux.ses !
 

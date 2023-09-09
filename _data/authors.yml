@@ -79,12 +79,12 @@
     bastienbernand:
         sexe: M
         name: Bastien Bernand
-        about: 
-        website: 
+        about: Game designer & 2D artist
+        website: https://bastien-bernand.fr
         facebook: 
         twitter: 
         github: 
-        linkedin: 
+        linkedin: https://www.linkedin.com/in/bastien-bernand/
         profil: /images/authors/bastienbernand.jpg
 
     jonastencate:
