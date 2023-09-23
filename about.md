@@ -3,7 +3,7 @@ layout: page
 title: Lyon Game Dev, l'association des brasseurs du jeu-vidéo lyonnais.
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2023-09-23
     changefreq: weekly
 ---
 ## Qui sommes-nous ?
@@ -16,19 +16,20 @@ Les rencontres de Lyon Game Dev (LGD) des 1ers jeudis du mois, imaginés par et 
 Brasser le secteur est notre mission,
 Servir des espaces de parole est notre activité.
 
-### Le conseil d'administration pour l'année 2022-2023
+### Le conseil d'administration pour l'année 2023-2024
 <div class="box">
   <p>
   Retrouvez les trombines des brasseurs qui s'activent pour mélanger l'écosystème.
   </p>
 </div>
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrYTfBLnlxUhVhS5?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appQJmtVY0b5DptEW/shrzVKpwq4SgqfzuB?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-(L'élection du bureau est prévu le 28 ocotbre 2022 au soir au sein du conseil d'administration)
+(L'élection du bureau est prévue après l'assemblée générale.
 
 #### Les anciens conseil d'administration
 
+[En 2022-2023 👉 voir la galerie.](https://airtable.com/shrYTfBLnlxUhVhS5)  
 [En 2021-2022 👉 voir la galerie.](https://airtable.com/shr87QWSBGCkn8cbu)  
 [En 2020-2021 👉 voir la galerie.](https://airtable.com/shrG5SU4LoTaRgCXP)  
 [En 2019-2020 👉 voir la galerie.](https://airtable.com/shr2pgdrcHWH0TDNZ)  
