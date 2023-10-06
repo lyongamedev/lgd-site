@@ -26,7 +26,7 @@ Pour rappel, le Faitout est un tiers-lieu dédié à l’hospitalité et à la t
 
 **Sans plus attendre, un récapitulatif des projets présentés lors de cette soirée !**
 
-# Ghostland Yard - Obelisk Studio
+## Ghostland Yard - Obelisk Studio
 
 <div class="box alt">
     <div class="row 50% uniform">
@@ -42,13 +42,13 @@ Nous félicitons le premier présentateur de cette soirée [Thibault Vincent Cat
 
 N’hésitez pas à ajouter à votre liste de souhait, essayer la démo, voire acheter le jeu que vous pouvez retrouver sur [sa page Steam à cette adresse](https://store.steampowered.com/app/2051130/Ghostland_Yard/).
 
-# Game Jam des Rendez-Vous de l'Histoire 2023 - La Science Entre En Jeu
+## Game Jam des Rendez-Vous de l'Histoire 2023 - La Science Entre En Jeu
 
 <div class="box alt">
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/20231006-retour-sur-le-meetup-d-octobre/GameJamRendezVousHistoire.jpg" | absolute_url }}" alt="Game Jam des Rendez-Vous de l'Histoire 2023" />
+            <img src="{{ "/images/articles/20231006-retour-sur-le-meetup-d-octobre/GameJamRendezVousHistoire.png" | absolute_url }}" alt="Game Jam des Rendez-Vous de l'Histoire 2023" />
         </span>
     </div>
     </div>
@@ -62,7 +62,7 @@ Enfin, iels seront au [festival des Rendez-Vous de l’Histoire](https://rdv-his
 
 On vous invite à vous renseigner auprès de l’association [La Science Entre En Jeu](http://lascienceentreenjeu.fr/) pour plus d’informations 🙂
 
-# Lock’s gate - Équipe Perséphone - Game Jam des rendez-vous de l’histoire
+## Lock’s gate - Équipe Perséphone - Game Jam des rendez-vous de l’histoire
 
 <div class="box alt">
     <div class="row 50% uniform">
@@ -79,7 +79,7 @@ Un jeu aux finitions impressionnantes pour une game jam, réalisé par l’équi
 
 Vous pouvez retrouver le jeu [ici](https://cixidetroy.itch.io/locksgate) si vous souhaitez y jouer.
 
-# Rendez-vous en novembre !
+## Rendez-vous en novembre !
 
 Voilà, c’est tout pour ce mois-ci, encore de beaux projets et des gens supers comme toujours ! Merci de continuer à faire vivre l’écosystème des professionnels du jeu vidéo à Lyon en venant aux meet-ups, on vous en remercie, et on espère continuer à organiser ces dernières encore longtemps !
 
