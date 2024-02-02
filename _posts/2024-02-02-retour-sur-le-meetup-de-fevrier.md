@@ -2,7 +2,7 @@
 layout: post
 title:  "Retour sur le meetup de février"
 date: 2024-02-02
-excerpt: ""
+excerpt: "Hier se tenait le meetup Lyon Game Dev de Février 2024 au Faitout à la Mulatière, une deuxième pour ce lieu excentré pour lequel vous avez été nombreux·ses au rendez-vous ! ..."
 image: "/images/articles/20240202-retour-sur-le-meetup-de-fevrier/Photo_Fevrier2024.jpg"
 author: 
   - jonastencate
