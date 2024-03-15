@@ -2,7 +2,7 @@
 layout: post
 title:  "Retour sur le meetup de mars"
 date: 2024-03-15
-excerpt: "Jeudi dernier se tenait le meetup Lyon Game Dev de Mars 2024 au Pilo à la Croix-Rousse ..."
+excerpt: "Jeudi dernier se tenait le meetup Lyon Game Dev de Mars 2024 au Pilo à la Croix-Rousse, un endroit vraiment super et spacieux qui nous accueille encore avec le sourire pour cette fois un meetup s’avérant être la veille de..."
 image: "/images/articles/20240315-retour-sur-le-meetup-de-mars/burning-squad.png"
 author: 
   - bastienbernand
