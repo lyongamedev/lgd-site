@@ -104,14 +104,14 @@ Entrée gratuite à la Geek Touch si vous souhaitez nous aider :)
 ### Soirée accueil bénévoles
 
 Pour répondre à toutes vos questions et vous aiguiller sur les besoins de l’asso, nous organisons le 26 avril une soirée dédiée à l’explication de notre fonctionnement, de nos missions, et à l’accueil d’éventuels bénévoles.
-Cela se passera au Puzzle Inn à 19h30 et vous pouvez d’hors et déjà vous y inscrire si le coeur vous en dit ! Comme c’est sans engagement et pas obligatoire mais ça nous aide côté organisation.
+Cela se passera au Puzzle Inn à 19h30 et vous pouvez d’ores et déjà vous y inscrire si le coeur vous en dit ! Comme c’est sans engagement et pas obligatoire mais ça nous aide côté organisation.
 
 [https://www.helloasso.com/associations/lyon-game-dev/evenements/soiree-accueil-benevoles-lgd](https://www.helloasso.com/associations/lyon-game-dev/evenements/soiree-accueil-benevoles-lgd)
 
 
 ### Merci
 
-Il n’y a pas d’engagement ou de pression, l’investissement est volontaire et en fonction de votre énergie / temps, vous serez accompagné.e.s et pouvez vous retirer à toiut moment
+Il n’y a pas d’engagement ou de pression, l’investissement est volontaire et en fonction de votre énergie / temps, vous serez accompagné.e.s et pouvez vous retirer à tout moment.
 Si vous êtes intéressé·e par un de ces projets, vous pouvez utiliser le formulaire suivant, nous prendrons contact avec vous ! 
 
 
@@ -133,8 +133,8 @@ Place maintenant aux projets du mois ! Tous faits par des étudiants, il y a du 
     </div>
 </div>
 
-Le premier projet présenté est Bid Badger Street, un projet de serious game développé par des étudiantes et étudiants de Gamagora. Le jeu a pour but de sensibiliser aux problématiques de harcèlement sexiste et sexuel dans l’espace publique et professionnel. Le jeu sera présent au Gamagora Game Show le 3 mai aux côtés des autres projets des étudiants et étudiantes de Gamagora présentés dans cet article.
-Vous pouvez les retrouver sur [Instagram](https://www.instagram.com/big_badger_street/), [Linkedin](https://www.linkedin.com/in/big-badger-street/) et [Discord](https://discord.gg/atECbCMfg9)
+Le premier projet présenté est Bid Badger Street, un projet de serious game développé par des étudiantes et étudiants de Gamagora. Le jeu a pour but de sensibiliser aux problématiques de harcèlement sexiste et sexuel dans l’espace publique et professionnel. Le jeu sera présent au Gamagora Game Show le 3 mai aux côtés des autres projets étudiants de Gamagora présentés dans cet article.
+Vous pouvez les retrouver sur [Instagram](https://www.instagram.com/big_badger_street/), [Linkedin](https://www.linkedin.com/in/big-badger-street/) et [Discord](https://discord.gg/atECbCMfg9).
 
 ### ERINYES
 
@@ -179,7 +179,7 @@ Vous pouvez suivre les avancées du projet sur leur page [LinkedIn](https://www.
     </div>
 </div>
 
-Le dernier projet des étudiants et étudiantes de Gamagora présenté ce soir est Invictus, un beat-them-all à la troisième personne avec la particularité de ne pas pouvoir mourir. A la place d’une barre de vie on a une barre de folie, qui va nous permettre de changer de forme une fois un seuil atteint, ce qui changera drastiquement le gameplay.
+Le dernier projet des étudiants et étudiantes de Gamagora présenté ce soir est Invictus, un beat-them-all à la troisième personne avec la particularité de ne pas pouvoir mourir. A la place d’une barre de vie, on a une barre de folie qui va nous permettre de changer de forme une fois un seuil atteint, ce qui changera drastiquement le gameplay.
 Vous pouvez les retrouver sur [Instagram](https://www.instagram.com/insightstudiogame) et [LinkedIn](https://www.linkedin.com/company/insight-studio-game/).
 
 ### Alchemist Madness
@@ -224,7 +224,7 @@ Vous pouvez les retrouver sur [LinkedIn](https://www.linkedin.com/company/astro-
     </div>
 </div>
 
-Notre dernier projet a été réalisé durant la jam de Confiture de Jeux aussi, par des étudiants de Lyon Ynov Campus et de Nantes Ynov Campus à distance! Il s’agit ici d’un jeu mélangeant jeu d’énigme et platformer à la première personne.
+Notre dernier projet de la jam de Confiture de Jeux a été réalisé par des étudiants de Lyon Ynov Campus mais aussi de Nantes Ynov Campus à distance ! Il s’agit ici d’un jeu mélangeant jeu d’énigme et platformer à la première personne.
 Vous pouvez tester le jeu sur [itch.io](https://itch.io/jam/confiture-de-jeux-x-ynov-2024/rate/2575589).
 
 ## RENDEZ-VOUS EN MAI !
