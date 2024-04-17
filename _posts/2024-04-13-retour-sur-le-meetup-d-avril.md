@@ -224,7 +224,7 @@ Vous pouvez les retrouver sur [LinkedIn](https://www.linkedin.com/company/astro-
     </div>
 </div>
 
-Notre dernier projet de la jam de Confiture de Jeux a été réalisé par des étudiants de Lyon Ynov Campus mais aussi de Nantes Ynov Campus à distance ! Il s’agit ici d’un jeu mélangeant jeu d’énigme et platformer à la première personne.
+Notre dernier projet de la jam de Confiture de Jeux a été réalisé par un ancien étudiant de Brassart ainsi que des étudiants de Nantes Ynov Campus à distance ! Il s’agit ici d’un jeu mélangeant jeu d’énigme et platformer à la première personne.
 Vous pouvez tester le jeu sur [itch.io](https://itch.io/jam/confiture-de-jeux-x-ynov-2024/rate/2575589).
 
 ## RENDEZ-VOUS EN MAI !
