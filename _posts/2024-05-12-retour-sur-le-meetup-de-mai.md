@@ -2,8 +2,8 @@
 layout: post
 title:  "Retour sur le meetup de mai"
 date: 2024-05-12
-excerpt: ""
-image: "/images/articles/20240512-retour-sur-le-meetup-de-mai/zinc-a-dit.png"
+excerpt: "Jeudi 2 mai se tenait le meetup Lyon Game Dev de mai 2024 au Zinc a dit à Jean-Jaurès, un bar associatif spacieux et idéal avec une super scène ! Vous avez été.e.s 90 à nous rejoindre ce soir là..."
+image: "/images/articles/20240512-retour-sur-le-meetup-de-mai/intro.jpg"
 author: 
   - bastienbernand
   - jonastencate
