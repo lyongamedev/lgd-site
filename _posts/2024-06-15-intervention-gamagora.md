@@ -2,7 +2,7 @@
 layout: post
 title:  "Intervention de Lyon Game Dev à Gamagora"
 date: 2024-06-15
-excerpt: ""
+excerpt: "Le 9 avril, avec plusieurs bénévoles de l’association, nous nous sommes rendus à l’ICOM, pour une intervention auprès des élèves de Gamago..."
 image: "/images/articles/20240615-intervention-gamagora/Lyon_Game_Dev_a_Gamagora.jpg"
 author: 
   - solennemarty
