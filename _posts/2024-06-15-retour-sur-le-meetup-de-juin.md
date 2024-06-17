@@ -135,7 +135,7 @@ N’attendez pas et [allez jouez à ZoomOut !](https://zoomout.videoludid.com/)
     </div>
 </div>
 
-Grâce à notre partenaire [StickerMule](https://www.stickermule.com/) nous avons obtenu une nouvelle fournée de stickers LGD à vous  distribuer lors de nos événements alors n’hésitez pas à nous en demander !
+Grâce à notre partenaire [Sticker Mule](https://www.stickermule.com/fr) nous avons obtenu une nouvelle fournée de [stickers personnalisés](https://www.stickermule.com/fr/stickers-personnalises) LGD à vous  distribuer lors de nos événements alors n’hésitez pas à nous en demander !
 
 
 ## RENDEZ-VOUS EN JUILLET !
