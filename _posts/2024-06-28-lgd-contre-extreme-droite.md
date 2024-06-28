@@ -2,17 +2,23 @@
 layout: post
 title:  "LGD contre l'extrême droite"
 date: 2024-06-28
-excerpt: "Lyon Game Dev se définit comme une association visant à “*animer, supporter et organiser par le biais de diverses actions, un réseau de créateurs·trices, d’acteurs·trices, et de professionnel·le·s issu·e·s de l’industrie du jeu-vidéo...*"
+excerpt: "Lyon Game Dev se définit comme une association visant à “animer, supporter et organiser par le biais de diverses actions, un réseau de créateurs·trices, d’acteurs·trices, et de professionnel·le·s issu·e·s de l’industrie du jeu-vidéo..."
 image: "/images/articles/20240628-lgd-contre-extreme-droite/240614-ni-dans-nos-vies-ni-dans-nos-jeux.png"
 author: 
-  - solennemarty
+  - bastienbernand
+  - martinringot
 comments: true
+hideimage: true
 ---
+
 Chers membres, sympathisant·e·s et public de Lyon Game Dev.
 
 Lyon Game Dev se définit comme une association visant à “*animer, supporter et organiser par le biais de diverses actions, un réseau de créateurs·trices, d’acteurs·trices, et de professionnel·le·s issu·e·s de l’industrie du jeu-vidéo et des métiers connexes, représentant Lyon et sa région*”. Si sa raison d’être n’est pas directement politique, l’association porte un certain nombre de valeurs, notamment celles rappelées dans l’article 3 de son [règlement intérieur](https://drive.google.com/file/d/1ttlqUPhgO_-b2idKC30B3ecijk0en37f/view) : “*Respecter et inclure toutes les personnes sans distinction d'origine, de race, d’orientation sexuelle, d’identité de genre, ou de religion, [...]*”.
 
 L’association ne peut donc rester silencieuse face à la situation actuelle.
+
+<span class="image fit"><a href="{{ "/images/articles/20240628-lgd-contre-extreme-droite/240614-ni-dans-nos-vies-ni-dans-nos-jeux.png" | absolute_url }}" alt="Ni dans nos vies, ni dans nos jeux. - Afrogameuses"><img src="{{ "/images/articles/20240628-lgd-contre-extreme-droite/240614-ni-dans-nos-vies-ni-dans-nos-jeux.png" | absolute_url }}" alt="Ni dans nos vies, ni dans nos jeux. - Afrogameuses"/></a></span>
+*Visuel de l'initiative menée par Afrogameuses*
 
 Pour rappel, le Rassemblement National est arrivé en tête des suffrages en France lors des élections européennes le 9 juin dernier ; par la suite, le Président de la République a annoncé la dissolution de l’Assemblée Nationale, organisant des élections législatives anticipées les 30 juin et 7 juillet prochains. Dans un climat politique où l’extrême-droite prime et où le taux d'abstention est élevé, nous courons le risque de nous retrouver avec un gouvernement d’extrême-droite.
 Un tel gouvernement mettrait en danger nombre de nos droits professionnels, sociaux, syndicaux et associatifs. On connaît déjà l’hostilité ouverte de l’extrême-droite envers l'égalité salariale, les aides aux personnes précaires ou encore l'inclusion des personnes handicapées et marginalisées dans la société et le travail. Outre les prises de positions répétées contre les personnes précarisées, les députés RN ont également régulièrement eu des propos hostiles envers les communautés LGBTQIA+, les personnes racisées, binationales, handicapées… Ce qui va à l’extrême opposé des valeurs de respect et d’inclusion que nous nous efforçons de promouvoir lors de nos événements.
