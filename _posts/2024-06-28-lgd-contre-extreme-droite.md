@@ -2,7 +2,7 @@
 layout: post
 title:  "LGD contre l'extrême droite"
 date: 2024-06-28
-excerpt: "Lyon Game Dev se définit comme une association visant à “*animer, supporter et organiser par le biais de diverses actions, un réseau de créateurs·trices, d’acteurs·trices, et de professionnel·le·s issu·e·s de l’industrie du jeu-vidéo..."
+excerpt: "Lyon Game Dev se définit comme une association visant à “*animer, supporter et organiser par le biais de diverses actions, un réseau de créateurs·trices, d’acteurs·trices, et de professionnel·le·s issu·e·s de l’industrie du jeu-vidéo...*"
 image: "/images/articles/20240628-lgd-contre-extreme-droite/240614-ni-dans-nos-vies-ni-dans-nos-jeux.png"
 author: 
   - solennemarty
