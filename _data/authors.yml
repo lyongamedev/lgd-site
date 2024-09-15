@@ -108,3 +108,14 @@
         github:
         linkedin: https://www.linkedin.com/in/martin-ringot/
         profil: /images/authors/martinringot.jpeg
+
+    cassandrabreton:
+        sexe: F
+        name: Cassandra Breton
+        about:
+        website:
+        facebook:
+        twitter:
+        github:
+        linkedin: http://www.linkedin.com/in/cassandra-breton-9706a9b0
+        profil: /images/authors/cassandrabreton.jpg
