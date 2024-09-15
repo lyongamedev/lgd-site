@@ -67,7 +67,7 @@ Nous sommes heureux·euses de vous présenter les professions de foi reçues :
         </div>
         <div class="10u">
             <blockquote>
-            <h3>Guillaume Deschamps <a href="{{site.data.linkedin.bastienbernand}}" class="icon fab fa-linkedin" style="text-align:center" rel="nofollow"></a></h3> 				
+            <h3>Bastien Bernand<a href="{{site.data.linkedin.bastienbernand}}" class="icon fab fa-linkedin" style="text-align:center" rel="nofollow"></a></h3> 				
             <p>
             Je compte continuer à m'investir pour soutenir l'écosystème local des travailleur.ice.s du jeu-vidéo au travers des actions de l'association. Ces 3 dernières années m'ont beaucoup appris et j'ai pris mes aises au sein de la communauté et des procédés de l'association.
             </p>
