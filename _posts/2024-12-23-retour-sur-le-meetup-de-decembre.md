@@ -2,7 +2,7 @@
 layout: post
 title:  "Retour sur le meetup de décembre"
 date: 2024-12-23
-excerpt: ""
+excerpt: "Le jeudi 7 décembre dernier se tenait le meetup Lyon Game Dev de novembre 2024 au Toï-Toï le zinc à Villeurbanne ! Vous avez été plus de 126 ! On espère ..."
 image: "/images/articles/20241223-retour-sur-le-meetup-de-decembre/ToiToi.jpg"
 author: 
   - bastienbernand
