@@ -3,7 +3,7 @@ layout: post
 title:  "Retour sur le meetup de janvier"
 date: 2025-01-11
 excerpt: "Le jeudi 2 janvier dernier se tenait le meetup Lyon Game Dev de janvier 2025 au Puzzle Inn vers Saxe-Gambetta ! Début d’année oblige..."
-image: "/images/articles/2025-01-11-retour-sur-le-meetup-de-janvier/PuzzleInn.jpg"
+image: "/images/articles/20250111-retour-sur-le-meetup-de-janvier/PuzzleInn.jpg"
 author: 
   - bastienbernand
 comments: true
@@ -19,7 +19,7 @@ Début d’année oblige, on était un effectif réduit de 45 personnes, ce qui 
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/2025-01-11-retour-sur-le-meetup-de-janvier/PuzzleInn.jpg" | absolute_url }}" alt="Puzzle Inn" />
+            <img src="{{ "/images/articles/20250111-retour-sur-le-meetup-de-janvier/PuzzleInn.jpg" | absolute_url }}" alt="Puzzle Inn" />
         </span>
         <figcaption><a href="https://www.linkedin.com/in/yanis-ouled-moussa/">@Yanis OULEDMOUSSA</a></figcaption>
     </div>
@@ -71,7 +71,7 @@ Place maintenant aux présentations du mois !
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/2025-01-11-retour-sur-le-meetup-de-janvier/EnLiveGameJam.png" | absolute_url }}" alt="En Live Gam Jam" />
+            <img src="{{ "/images/articles/20250111-retour-sur-le-meetup-de-janvier/EnLiveGameJam.png" | absolute_url }}" alt="En Live Gam Jam" />
         </span>
     </div>
     </div>
@@ -89,7 +89,7 @@ Pour en savoir plus : contact@enlivegamejam.fr
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/2025-01-11-retour-sur-le-meetup-de-janvier/Threshold.png" | absolute_url }}" alt="Threshold" />
+            <img src="{{ "/images/articles/20250111-retour-sur-le-meetup-de-janvier/Threshold.png" | absolute_url }}" alt="Threshold" />
         </span>
     </div>
     </div>
@@ -108,7 +108,7 @@ Quelques choix et révélations plus tard vous viendrez à bout de ce petit jeu 
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/2025-01-11-retour-sur-le-meetup-de-janvier/Présentation.png" | absolute_url }}" alt="Slides meetup" />
+            <img src="{{ "/images/articles/20250111-retour-sur-le-meetup-de-janvier/Présentation.png" | absolute_url }}" alt="Slides meetup" />
         </span>
     </div>
     </div>
