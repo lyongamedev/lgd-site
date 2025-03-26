@@ -5,7 +5,7 @@ date: 2025-02-24
 excerpt: "Mercredi 19 février, Lyon Game Dev a proposé un atelier de réparation d’ordinateurs, manettes et souris, encadré par l’association l’Atelier Soudé..."
 image: "/images/articles/20250224-atelier-reparation-ordinateur-et-brioches/1_Affiche.jpg"
 author: 
-  - bastienbernand
+  - solennemarty
 comments: true
 ---
 
