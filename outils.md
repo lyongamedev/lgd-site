@@ -26,9 +26,9 @@ Vous êtes adhérents ou aspirants adhérents ? Retrouvez les documents associat
 
 ## L'agenda
 
-Voilà les événements jeu-vidéo de la région AURA ! Calendrier partagé avec les associations du bassin.
+Voilà l'agenda de l'association Lyon Game Dev !
 		
-{% include iframeembed.html id="https://calendar.google.com/calendar/embed?src=26iqdcbnisufhbtcq470u4d2qc%40group.calendar.google.com&ctz=Europe%2FParis" %}
+{% include iframeembed.html id="https://calendar.google.com/calendar/embed?src=c_41e20603832bb9001624fbcf8f051be1531f161acee0a7c872e004735f3f7125%40group.calendar.google.com&ctz=Europe%2FParis" %}
 
 --------------------
 
