@@ -1,6 +1,6 @@
 # Site
 title:              Lyon Game Dev
-bio:                'Les brasseurs du jeu-vidéo lyonnais'
+bio:                "L'asso qui brasse le jeu vidéo à Lyon."
 description:        "Pionnière du brassage vidéoludique à partir de gros pixels non-aliasés, l’association Lyon Game Dev mélange l’écosystème professionnel du jeu-vidéo lyonnais depuis 2013."
 logo:               <img src="/images/LGD_Logo_White.png" alt="LyonGameDev Logo">
 locale:             fr_FR
