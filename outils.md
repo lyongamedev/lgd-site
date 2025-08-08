@@ -16,7 +16,7 @@ sitemap:
 ## Nos documents associatifs
 
 Vous êtes adhérents ou aspirants adhérents ? Retrouvez les documents associatifs de LyonGameDev en lecture seule :
-  - [Nos statuts.](https://drive.google.com/file/d/17s-A_Wh0y-WMeLgwWX9hgv7696m3txRm/view?usp=drive_link)
+  - [Nos statuts.](https://drive.google.com/file/d/1dEKm7f0HzNezCBbB1ogaK3g-ZFV-tX7D/view?usp=sharing)
   - [Notre règlement intérieur.](https://drive.google.com/file/d/15pnOQ4K4Y8h-WQQxu95fPqM6cNykmS1d/view?usp=sharing)
   - [Nos fiches de rôles.](https://drive.google.com/file/d/1AuoYEIMOTUAyz-aT6yVI1g_SxdTnpEsR/view?usp=share_link)
   - [Nos comptes rendus d'assemblée générale.](https://drive.google.com/drive/folders/1slWH1BTMY5mX0LtojqG_WXlHJLvK7ul2?usp=share_link)
