@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Découvrez les candidats au conseil d'administration 2025-2026"
-date: 2024-09-15
+date: 2025-09-03
 excerpt: "C’est bientôt l’assemblée générale ordinaire de Lyon Game Dev ! Elle a lieu le 23/09/2025 au Bertone (3 place Bertone, 69004 Lyon), et..."
 image: "/images/articles/20250903-candidats-ca-2025-2026/affiche.png"
 author: 
