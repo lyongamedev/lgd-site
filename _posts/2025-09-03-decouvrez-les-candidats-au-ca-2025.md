@@ -9,7 +9,7 @@ author:
 comments: true
 ---
 
-C’est bientôt l’assemblée générale ordinaire de Lyon Game Dev ! Elle a lieu le 23/09/2025 au Bertone (3 place Bertone, 69004 Lyon), et en ligne sur [le discord de l’association](discord.lyongamedev.pro).
+C’est bientôt l’assemblée générale ordinaire de Lyon Game Dev ! Elle a lieu le 23/09/2025 au Bertone (3 place Bertone, 69004 Lyon), et en ligne sur [le discord de l’association](https://discord.com/invite/mDq6N8rbT4).
 
 ## Le fonctionnement du conseil d'administration:
 
