@@ -4,21 +4,11 @@ title:  "Rapports d’activités et présentation du conseil d’administration 
 date: 2025-10-05
 excerpt: "Nous renouvelons tous les ans notre conseil d’administration, pour faire un roulement des personnes, d’après notre gouvernance..."
 image: "/images/articles/20251005-rapport-activites-lgd-20242025/Photo-AG-principale.jpg"
-author: antoinegouy
+author: solennemarty
 comments: true
 ---
 
 Nous renouvelons tous les ans notre conseil d’administration, pour faire un roulement des personnes, d’après notre gouvernance.
-
-<div class="box alt">
-    <div class="row 50% uniform">
-	<div class="6u">
-        <span class="image fit">
-            <img src="{{ "/images/articles/20251005-rapport-activites-lgd-20242025/Photo-AG-principale.jpg" | absolute_url }}" alt="Photo AG Principale" />
-        </span>
-    </div>
-    </div>
-</div>
 
 ## L’assemblée générale et présentation du rapport d’activités 2024-2025
 
@@ -81,6 +71,7 @@ Le conseil accueille 3 nouveaux membres et 1 membre qui renouvelle son mandat :
         <div class="10u">
             <blockquote>
             <h3>David Brunell - 3D artist et Community manager<a href="{{site.data.linkedin.davidbrunel}}" class="icon fab fa-linkedin" style="text-align:center" rel="nofollow"></a></h3>
+            </blockquote>
         </div>
     </div>
 </div>
