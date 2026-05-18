@@ -3,7 +3,7 @@ layout: post
 title:  "Retour sur le meetup d’Avril 2026"
 date: 2026-05-18
 excerpt: "Jeudi 2 Avril se tenait le meetup mensuel Lyon Game Dev d’Avril, regroupant 160 participants au bar The People..."
-image: "/images/articles/202606_meetup_avril/meetup.png"
+image: "/images/articles/202605_meetup_avril/meetup.png"
 author: mathisfautrad
 comments: true
 ---
