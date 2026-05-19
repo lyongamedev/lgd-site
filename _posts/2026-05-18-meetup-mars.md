@@ -64,7 +64,7 @@ Lien du jeu : [https://store.steampowered.com/app/769520/Abyss_Crew/](https://st
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202605_meetup_avril/stardream.png" | absolute_url }}" alt="Stardream" />
+            <img src="{{ "/images/articles/202606_meetup_avril/stardream.png" | absolute_url }}" alt="Stardream" />
         </span>
     </div>
     </div>
@@ -83,7 +83,7 @@ Plus d’infos sur Rebel Pixel : [https://rebelpixel.fr](https://rebelpixel.fr)
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202605_meetup_avril/crimsonspine.png" | absolute_url }}" alt="Crimson Spine" />
+            <img src="{{ "/images/articles/202606_meetup_avril/crimsonspine.png" | absolute_url }}" alt="Crimson Spine" />
         </span>
     </div>
     </div>
@@ -101,7 +101,7 @@ Le jeu était disponible en playtest pendant toute la soirée !
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202605_meetup_avril/grandmashome" | absolute_url }}" alt="Grandma's Home" />
+            <img src="{{ "/images/articles/202606_meetup_avril/grandmashome" | absolute_url }}" alt="Grandma's Home" />
         </span>
     </div>
     </div>
@@ -113,7 +113,7 @@ Une nouvelle équipe d’étudiants de Gamagora nous présentaient ce soir Grand
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202605_meetup_avril/grandmashome2" | absolute_url }}" alt="Grandma's Home 2" />
+            <img src="{{ "/images/articles/202606_meetup_avril/grandmashome2" | absolute_url }}" alt="Grandma's Home 2" />
         </span>
     </div>
     </div>
@@ -127,7 +127,7 @@ Grandma’s home était lui aussi disponible au playtest durant toute la soirée
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202605_meetup_avril/equinox" | absolute_url }}" alt="Equinox" />
+            <img src="{{ "/images/articles/202606_meetup_avril/equinox" | absolute_url }}" alt="Equinox" />
         </span>
     </div>
     </div>
@@ -143,7 +143,7 @@ Equinox était, lui aussi, disponible au playtest durant toute la soirée !
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202605_meetup_avril/tomotomo" | absolute_url }}" alt="TomoTomo" />
+            <img src="{{ "/images/articles/202606_meetup_avril/tomotomo" | absolute_url }}" alt="TomoTomo" />
         </span>
     </div>
     </div>
