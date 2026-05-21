@@ -4,7 +4,7 @@ title:  "Retour sur le meetup d’Avril 2026"
 date: 2026-05-18
 excerpt: "Jeudi 2 Avril se tenait le meetup mensuel Lyon Game Dev d’Avril, regroupant 160 participants au bar The People..."
 image: "/images/articles/202605_meetup_avril/meetup.png"
-author: mathisfautrad
+author: mattisfautrad
 comments: true
 ---
 
@@ -47,7 +47,7 @@ Si vous êtes intéressé·e par un de ces projets, vous pouvez utiliser le form
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202606_meetup_avril/abysscrew.png" | absolute_url }}" alt="Abyss Crew" />
+            <img src="{{ "/images/articles/202605_meetup_avril/abysscrew.png" | absolute_url }}" alt="Abyss Crew" />
         </span>
     </div>
     </div>
@@ -101,7 +101,7 @@ Le jeu était disponible en playtest pendant toute la soirée !
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202605_meetup_avril/grandmashome" | absolute_url }}" alt="Grandma's Home" />
+            <img src="{{ "/images/articles/202605_meetup_avril/grandmashome.png" | absolute_url }}" alt="Grandma's Home" />
         </span>
     </div>
     </div>
@@ -113,7 +113,7 @@ Une nouvelle équipe d’étudiants de Gamagora nous présentaient ce soir Grand
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202605_meetup_avril/grandmashome2" | absolute_url }}" alt="Grandma's Home 2" />
+            <img src="{{ "/images/articles/202605_meetup_avril/grandmashome2.png" | absolute_url }}" alt="Grandma's Home 2" />
         </span>
     </div>
     </div>
