@@ -127,7 +127,7 @@ Grandma’s home était lui aussi disponible au playtest durant toute la soirée
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202605_meetup_avril/equinox" | absolute_url }}" alt="Equinox" />
+            <img src="{{ "/images/articles/202605_meetup_avril/equinox.png" | absolute_url }}" alt="Equinox" />
         </span>
     </div>
     </div>
@@ -143,7 +143,7 @@ Equinox était, lui aussi, disponible au playtest durant toute la soirée !
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202605_meetup_avril/tomotomo" | absolute_url }}" alt="TomoTomo" />
+            <img src="{{ "/images/articles/202605_meetup_avril/tomotomo.png" | absolute_url }}" alt="TomoTomo" />
         </span>
     </div>
     </div>
