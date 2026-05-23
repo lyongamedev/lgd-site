@@ -115,7 +115,8 @@ Autour du projet se forment actuellement de petites équipes de développeur.eus
 
 Michael recherche plus de développeurs et créatifs motivés qui aimeraient participer à la création d’un jeu pour sa plateforme. Mimico propose un cadre de travail clair et organisé, une gestion de la prod, un soutien GD et ND et un lien direct avec des professeur.e.s de mathématiques !
 
-Si ce projet vous intéresse, contactez-les ! 
+Si ce projet vous intéresse, contactez-les !
+
 [Site de Mimico](https://www.mimico.games)
 
 
