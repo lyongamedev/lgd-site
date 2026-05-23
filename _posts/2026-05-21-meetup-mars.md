@@ -44,7 +44,7 @@ Le tout pour un tarif de lancement réduit de moitié : 995€, frais de soumiss
 
 Attention : 4 slots réservés à 99€ pour des jeux issus de la Scientific Game Jam ! 
 
-Plus d’infos sur : [https://lascienceentreenjeu.fr/semaine-daccompagnement-a-la-release-2026/](https://lascienceentreenjeu.fr/semaine-daccompagnement-a-la-release-2026/
+Plus d’infos sur : [https://lascienceentreenjeu.fr/semaine-daccompagnement-a-la-release-2026/](https://lascienceentreenjeu.fr/semaine-daccompagnement-a-la-release-2026/)
 
 
 ## Les dates importantes à venir !
