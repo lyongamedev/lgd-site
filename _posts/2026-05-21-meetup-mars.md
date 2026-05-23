@@ -3,7 +3,7 @@ layout: post
 title:  "Retour sur le meetup de mars 2026"
 date: 2026-04-18
 excerpt: "Jeudi 5 mars avait lieu le meetup mensuel Lyon Game Dev de mars, regroupant 120 participants au Patchwork près de Garibaldi..."
-image: "/images/articles/202604-meetup-mars/meetup.png"
+image: "/images/articles/202605-meetup-mars/meetup.png"
 author: mattisfautrad
 comments: true
 ---
