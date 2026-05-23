@@ -3,7 +3,7 @@ layout: post
 title:  "Retour sur le meetup de mars 2026"
 date: 2026-04-18
 excerpt: "Jeudi 5 mars avait lieu le meetup mensuel Lyon Game Dev de mars, regroupant 120 participants au Patchwork près de Garibaldi..."
-image: "/images/articles/202604_meetup_mars/meetup.png"
+image: "/images/articles/202604-meetup-mars/meetup.png"
 author: mattisfautrad
 comments: true
 ---
@@ -16,7 +16,7 @@ Jeudi 5 mars avait lieu le meetup mensuel Lyon Game Dev de mars, regroupant 120 
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202604_meetup_mars/patchwork.png" | absolute_url }}" alt="Patchwok Café" />
+            <img src="{{ "/images/articles/202604-meetup-mars/patchwork.png" | absolute_url }}" alt="Patchwok Café" />
         </span>
     </div>
     </div>
@@ -67,7 +67,7 @@ du Jeu Vidéo).
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202604_meetup_mars/outofrange.png" | absolute_url }}" alt="Out of Range" />
+            <img src="{{ "/images/articles/202604-meetup-mars/outofrange.png" | absolute_url }}" alt="Out of Range" />
         </span>
     </div>
     </div>
@@ -85,7 +85,7 @@ Leurs objectifs pour ce jeu :  une vertical-slice d’au moins 15 minutes et un 
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202604_meetup_mars/resistance.png" | absolute_url }}" alt="Resistance" />
+            <img src="{{ "/images/articles/202604-meetup-mars/resistance.png" | absolute_url }}" alt="Resistance" />
         </span>
     </div>
     </div>
@@ -101,7 +101,7 @@ Un [formulaire](https://framaforms.org/resistance-etre-tenue-au-courant-17722878
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202604_meetup_mars/mimico.png" | absolute_url }}" alt="Mimico" />
+            <img src="{{ "/images/articles/202604-meetup-mars/mimico.png" | absolute_url }}" alt="Mimico" />
         </span>
     </div>
     </div>
@@ -123,7 +123,7 @@ Si ce projet vous intéresse, contactez-les !
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202604_meetup_mars/mimico2.png" | absolute_url }}" alt="Mimico 2" />
+            <img src="{{ "/images/articles/202604-meetup-mars/mimico2.png" | absolute_url }}" alt="Mimico 2" />
         </span>
     </div>
     </div>
@@ -136,7 +136,7 @@ Si ce projet vous intéresse, contactez-les !
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202604_meetup_mars/timetoexplain.png" | absolute_url }}" alt="Time to explain" />
+            <img src="{{ "/images/articles/202604-meetup-mars/timetoexplain.png" | absolute_url }}" alt="Time to explain" />
         </span>
     </div>
     </div>
@@ -150,7 +150,7 @@ Time to Explain! sur [itch.io](https://jag.itch.io/time) !
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202604_meetup_mars/timetoexplain2.png" | absolute_url }}" alt="Time to explain 2" />
+            <img src="{{ "/images/articles/202604-meetup-mars/timetoexplain2.png" | absolute_url }}" alt="Time to explain 2" />
         </span>
     </div>
     </div>
@@ -162,7 +162,7 @@ Time to Explain! sur [itch.io](https://jag.itch.io/time) !
     <div class="row 50% uniform">
 	<div class="6u">
         <span class="image fit">
-            <img src="{{ "/images/articles/202604_meetup_mars/dreadfuldefenders.png" | absolute_url }}" alt="Dreadful Defenders" />
+            <img src="{{ "/images/articles/202604-meetup-mars/dreadfuldefenders.png" | absolute_url }}" alt="Dreadful Defenders" />
         </span>
     </div>
     </div>
