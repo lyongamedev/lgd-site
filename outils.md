@@ -17,7 +17,7 @@ sitemap:
 
 Vous êtes adhérents ou aspirants adhérents ? Retrouvez les documents associatifs de LyonGameDev en lecture seule :
   - [Nos statuts.](https://drive.google.com/drive/folders/1xubnl00-yK937-aecAmoyalOKTeG1Y3c?usp=sharing)
-  - [Notre règlement intérieur.](https://drive.google.com/drive/folders/1LIPCpshFhCgyRaV615gSgpg5MB8Bgx7f?usp=drive_link)
+  - [Notre règlement intérieur et notre notice de fonctionnement du pôle Diversité Prévention Inclusion.](https://drive.google.com/drive/folders/1LIPCpshFhCgyRaV615gSgpg5MB8Bgx7f?usp=drive_link)
   - [Nos fiches de rôles.](https://drive.google.com/drive/folders/13SBYMROuDqTDAhR2h9-UAIMXwqEA00Ew?usp=drive_link)
   - [Nos comptes rendus d'assemblée générale.](https://drive.google.com/drive/folders/1slWH1BTMY5mX0LtojqG_WXlHJLvK7ul2?usp=drive_link)
   - [Nos comptes rendus de réunion en CA.](https://drive.google.com/drive/folders/1PZFSQnJLDA2VMZXbeDeE0521ze3lgtOu?usp=drive_link)
