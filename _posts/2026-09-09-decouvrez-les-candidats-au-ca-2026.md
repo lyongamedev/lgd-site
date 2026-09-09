@@ -33,7 +33,7 @@ Nous sommes heureux·euses de vous présenter les candidatures (= professions de
     <div class="row 50% uniform">
         <div class="2u">
             <span class="image fit">
-                <img src="{{ "/images/authors/morgane-maudet.png" | absolute_url }}" alt="Photo de Morgane Maudet" />
+                <img src="{{ "/images/authors/morgane-maudet.jpg" | absolute_url }}" alt="Photo de Morgane Maudet" />
             </span>
         </div>
         <div class="10u">
@@ -53,7 +53,7 @@ Très investie dans le tissu associatif, créatrice de jeux indies engagés (BBS
     <div class="row 50% uniform">
         <div class="2u">
             <span class="image fit">
-                <img src="{{ "/images/authors/theo-farenc.jpeg" | absolute_url }}" alt="Photo de Théo Farenc" />
+                <img src="{{ "/images/authors/theo-farenc.jpg" | absolute_url }}" alt="Photo de Théo Farenc" />
             </span>
         </div>
         <div class="10u">
