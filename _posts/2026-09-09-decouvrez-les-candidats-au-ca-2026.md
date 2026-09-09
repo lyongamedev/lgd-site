@@ -103,9 +103,6 @@ J'ai aujourd'hui envie d'aider les autres à en bénéficier en donnant de mon t
             <blockquote>
             <h3>Jérémie Cieslak<a href="https://www.linkedin.com/in/jcieslak/" class="icon fab fa-itch-io" style="text-align:center" rel ="nofollow"></a></h3> 				
             <p>
-            Je suis étudiant en infographie 3D avec pour but de développer des jeu vidéo à temps plein.
-            </p>
-            <p>
 Adhérent engagé depuis bien avant la constitution en association, je souhaite aujourd'hui mettre mes compétences au service de l'association, et renforcer celles qui me manquent.
 
 Mes objectifs : Développer ce qu'il est possible de faire pour que l'association puisse continuer d'apporter connexions, soutien moral et aide variées au tissu local de développement de jeu vidéo, en se centrant principalement sur les indépendants et les employés qui en ont particulièrement besoin en des temps rarement faciles.
