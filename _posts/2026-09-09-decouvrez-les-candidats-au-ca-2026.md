@@ -75,7 +75,7 @@ Je souhaite aujourd’hui renforcer cet engagement auprès de l’association en
     <div class="row 50% uniform">
         <div class="2u">
             <span class="image fit">
-                <img src="{{ "/images/authors/marie-gibert.jpg" | absolute_url }}" alt="Photo de Marie Gibert" />
+                <img src="{{ "/images/authors/marie-gibert.png" | absolute_url }}" alt="Photo de Marie Gibert" />
             </span>
         </div>
         <div class="10u">
