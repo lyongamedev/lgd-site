@@ -2,7 +2,7 @@
 layout: post
 title:  "Découvrez les candidats au conseil d'administration 2026-2027"
 date: 2026-09-09
-excerpt: "C’est bientôt l’assemblée générale ordinaire de Lyon Game Dev ! Elle a lieu le 23/09/2025 au Bertone (3 place Bertone, 69004 Lyon), et..."
+excerpt: "C’est bientôt l’assemblée générale ordinaire de Lyon Game Dev ! Elle a lieu le 14/09/2026 au bar Le Puzzle Inn (278 Rue de Créqui, 69007 LYON), et..."
 image: "/images/articles/20260909-professions-de-foi/annonce.png"
 author: 
   - solennemarty
