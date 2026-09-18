@@ -49,18 +49,18 @@ Si vous êtes intéressé·e par un de ces projets, vous pouvez utiliser le form
 
 ## News de la communauté  
 
-21 sept : nouveau trailer de Contenir qui sort pour le festival Steam ” Out The Box” !
-25 sept : Festival Press Start, Jena Porée sera en live pour parler de jeux narratifs engagés avec Sybil Colas de 17h à 18h. 
-TGDays : conf sur "Développer un jeu sur la Playdate : contraintes techniques, artistiques et opportunités commerciales"  par Ludovic Bas.
-Catstronaut, le jeu de plate-forme 2D dans l’espace a ouvert des playtests online. Si ça vous intéresse demandez le lien à Jérémie ou Maayane sur le Discord LGD
+- 21 sept : nouveau trailer de Contenir qui sort pour le festival Steam ” Out The Box” !
+- 25 sept : Festival Press Start, Jena Porée sera en live pour parler de jeux narratifs engagés avec Sybil Colas de 17h à 18h. 
+- TGDays : conf sur "Développer un jeu sur la Playdate : contraintes techniques, artistiques et opportunités commerciales"  par Ludovic Bas.
+- Catstronaut, le jeu de plate-forme 2D dans l’espace a ouvert des playtests online. Si ça vous intéresse demandez le lien à Jérémie ou Maayane sur le Discord LGD
 
 
 ## Dates importantes
 
-25-27 septembre : La game jam des Rendez-Vous de l’Histoire, 5ème édition, par La Science Entre En Jeu. Pour plus d’infos : www.lascienceentreenjeu.fr. 
-14 novembre : Game Craft Lyon à la MJC Montplaisir, conférences game dev & échanges
+- 25-27 septembre : La game jam des Rendez-Vous de l’Histoire, 5ème édition, par La Science Entre En Jeu. Pour plus d’infos : www.lascienceentreenjeu.fr. 
+- 14 novembre : Game Craft Lyon à la MJC Montplaisir, conférences game dev & échanges
 		
-Game Craft ? C’est quoi ça ? 
+- Game Craft ? C’est quoi ça ? 
 C’est un nouvel événement lyonnais de conférences sur le game dev. Cette fois-ci, on ne parle pas business, com ou marketing, mais bien de comment faire des jeux. L’événement à aussi pour vocation de proposer des moments pour se rencontrer avec une chouette buvette.
 
 
