@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Résumé du meetup de Septembre 2026"
-date: 2026-05-24
+date: 2026-09-18
 excerpt: "Jeudi 3 septembre se tenait le meetup mensuel Lyon Game Dev, regroupant une centaine de participants au Patchwork Café..."
 image: "/images/articles/202609-meetup-septembre/meetup.png"
 author: mattisfautrad
